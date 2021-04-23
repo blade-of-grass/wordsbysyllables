@@ -1,19 +1,19 @@
-electronically
-responsibility
-ecclesiastical
-mediterranean
-revolutionary
-identification
-familiarity
-involuntarily
-peculiarities
-simultaneously
-impossibility
-peculiarity
-incomprehensible
-originality
-satisfactorily
-unsatisfactory
-respectability
-unintelligible
-reconciliation
+electronically adverb
+responsibility noun
+ecclesiastical adjective
+mediterranean adjective
+revolutionary adjective
+identification noun
+familiarity noun
+involuntarily adverb
+peculiarities noun
+simultaneously adverb
+impossibility noun
+peculiarity noun
+incomprehensible adjective
+originality noun
+satisfactorily adverb
+unsatisfactory adjective
+respectability noun
+unintelligible adjective
+reconciliation noun
