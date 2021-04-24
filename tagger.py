@@ -36,7 +36,7 @@ lines = input_file.readlines()
 index = 0
 words = []
 for line in lines:
-    words.append(line.replace("\n", ""))
+    words.append(line.strip())
     index += 1
     if index % 10 == 0 or index == len(lines):
         body = {"msg": " ".join(words)}
@@ -52,7 +52,6 @@ for line in lines:
             if item["pos"] == None:
                 info.append("null")
             else:
-                print(item)
                 for character in item["pos"]:
                     if character in parts_of_speech.keys():
                         info.append(parts_of_speech[character])
