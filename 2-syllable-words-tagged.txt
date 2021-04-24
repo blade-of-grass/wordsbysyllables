@@ -19,18 +19,18 @@ many definite_article noun
 every definite_article adjective
 people noun verb_transitive
 away adverb adjective
-repaid null
-maketh null
-statesmen null
-seamen null
-wordforms null
+repaid verb_transitive verb_participle
+maketh verb_transitive
+statesmen plural
+seamen plural
+wordforms plural
 honour noun verb_transitive
 honours noun
 honoured adjective
 under preposition adverb
 also adverb
-blockquote null
-yourselves null
+blockquote noun
+yourselves plural
 hypertext noun
 against preposition
 ever adverb
@@ -41,7 +41,7 @@ because conjunction
 country noun adjective
 going noun adjective
 better adjective adverb
-having null
+having verb_participle
 something pronoun adverb
 moment noun
 father noun verb_transitive
@@ -62,7 +62,7 @@ themselves pronoun
 rather adverb
 began verb_participle
 present adjective noun
-others null
+others plural
 money noun
 within preposition adverb
 matter noun verb_intransitive
@@ -88,7 +88,7 @@ itself pronoun
 along preposition adverb
 return verb_intransitive verb_transitive
 nature noun
-answered null
+answered verb_participle
 either definite_article conjunction
 letter noun verb_participle
 women noun
@@ -100,7 +100,7 @@ whether conjunction pronoun
 manner noun
 second adjective noun
 reason noun verb_participle
-replied null
+replied verb_participle
 behind preposition adverb
 became verb_participle
 become verb_participle
@@ -113,13 +113,13 @@ making noun
 towards preposition
 human adjective noun
 evening noun
-returned null
+returned verb_participle
 able adjective noun
 lady noun
 subject noun adjective
 answer noun verb_participle
 around preposition adverb
-followed null
+followed verb_participle
 party noun adjective
 ready adjective noun
 story noun verb_participle
@@ -133,7 +133,7 @@ early adjective adverb
 sometimes adverb
 saying noun
 table noun verb_transitive
-appeared null
+appeared verb_participle
 river noun
 later adjective adverb
 feeling noun adjective
@@ -145,7 +145,7 @@ taking adjective noun
 beyond preposition adverb
 neither definite_article conjunction
 forward adjective noun
-entered null
+entered verb_participle
 suppose verb_transitive verb_participle
 daughter noun
 real adjective noun
@@ -180,7 +180,7 @@ fellow noun verb_transitive
 window noun verb_transitive
 ago adverb adjective
 beauty noun interjection
-remained null
+remained verb_participle
 latter adjective noun
 duty noun
 distance noun verb_transitive
@@ -188,7 +188,7 @@ silence noun verb_transitive
 object noun verb_transitive
 trouble noun verb_transitive
 persons adjective
-happened null
+happened verb_participle
 minutes noun
 hardly adverb
 action noun interjection
@@ -203,15 +203,15 @@ single adjective noun
 broken verb_participle adjective
 unless conjunction preposition
 carry verb_participle verb_intransitive
-exclaimed null
+exclaimed verb_participle
 seeing noun conjunction
 appear verb_intransitive verb_participle
 outside preposition adjective
 secret adjective noun
 evil adjective noun
 slowly adverb
-horses null
-places null
+horses plural
+places plural
 instead adverb
 sister noun adjective
 battle noun verb_intransitive
@@ -236,7 +236,7 @@ leaving noun verb_participle
 remain verb_participle
 result noun verb_intransitive
 heaven noun
-started null
+started verb_participle
 command verb_participle verb_transitive
 regard verb_participle verb_transitive
 beside preposition adverb
@@ -271,8 +271,8 @@ marriage noun
 garden noun verb_participle
 begin verb_participle
 sitting noun adjective
-offered null
-flowers null
+offered verb_participle
+flowers plural
 produced verb_participle adjective
 summer noun adverb
 provide verb_participle verb_intransitive
@@ -285,25 +285,25 @@ escape verb_participle verb_intransitive
 attempt verb_transitive noun
 supposed adjective
 author noun verb_participle
-soldiers null
-houses null
+soldiers plural
+houses plural
 beneath preposition adverb
 talking noun
 turning noun adjective
-matters null
+matters plural verb_transitive
 likely adjective adverb
 corner noun verb_transitive
 trademark noun verb_transitive
 justice noun
 simply adverb
 produce verb_participle verb_transitive
-appears null
+appears verb_intransitive
 forget verb_participle verb_transitive
 passage noun verb_participle
 ourselves pronoun
 passing adjective adverb
 required verb_participle adjective
-efforts null
+efforts plural
 ladies noun
 pleasant adjective
 modern adjective noun
@@ -312,12 +312,12 @@ island noun verb_transitive
 meeting noun
 nation noun
 reply verb_participle verb_transitive
-copies null
+copies plural verb_intransitive
 equal adjective noun
 fortune noun verb_participle
 domain noun
 promise verb_participle verb_transitive
-orders null
+orders plural verb_intransitive
 degree noun adjective
 middle adjective noun
 winter noun verb_intransitive
@@ -327,7 +327,7 @@ running adjective noun
 surprise verb_transitive noun
 minute noun verb_transitive
 roman adjective noun
-cases null
+cases plural
 higher adjective
 spoken verb_participle adjective
 affairs noun
@@ -339,11 +339,11 @@ access noun verb_transitive
 lower adjective verb_transitive
 darkness noun
 passion noun
-questions null
+questions plural verb_intransitive
 lying verb_participle noun
 keeping noun
 silver noun adjective
-mentioned null
+mentioned verb_participle
 servant noun
 moral adjective noun
 instant noun adjective
@@ -357,18 +357,18 @@ social adjective noun
 refund verb_participle verb_transitive
 sorry adjective interjection
 courage noun
-members null
+members plural
 worthy adjective noun
 special adjective noun
 request verb_transitive noun
 mighty adjective adverb
 movement noun
 expect verb_transitive verb_participle
-dollars null
+dollars plural
 glory noun verb_participle
 engaged adjective
 peter verb_intransitive noun
-mountains null
+mountains plural
 iron noun adjective
 greatly adverb
 using verb_participle noun
@@ -388,7 +388,7 @@ fancy adjective noun
 prevent verb_transitive verb_intransitive
 legal adjective
 aside adverb noun
-powers null
+powers plural
 possessed adjective
 distant adjective
 progress noun verb_participle
@@ -398,7 +398,7 @@ knowing adjective noun
 settled verb_participle adjective
 holding noun adjective
 mountain noun adjective
-pieces null
+pieces plural verb_transitive
 clearly adverb
 thirty noun definite_article
 honest adjective
@@ -410,20 +410,20 @@ measure noun verb_intransitive
 species noun
 highest adjective
 honor noun verb_transitive
-obtained null
+obtained verb_participle
 bottom noun adjective
-fingers null
+fingers plural
 agreed adjective
-events null
+events plural
 fully adverb
 delight verb_transitive verb_intransitive
 amount noun verb_intransitive
 obtain verb_transitive verb_intransitive
-servants null
-shoulders null
+servants plural
+shoulders plural
 stranger noun
 creature noun
-nations null
+nations plural
 refused verb_participle
 surface noun verb_participle
 freely adverb
@@ -434,14 +434,14 @@ report noun verb_participle
 daily adjective noun
 shoulder noun verb_transitive
 surprised verb_participle adjective
-faces null
+faces plural
 royal adjective noun
 comfort noun verb_transitive
 freedom noun
 advance verb_participle verb_transitive
 gentle adjective verb_transitive
 surely adverb
-waited null
+waited verb_participle
 secure adjective verb_transitive
 desired adjective
 portion noun verb_transitive
@@ -453,15 +453,15 @@ carriage noun
 weather noun adjective
 papers noun
 practice noun verb_participle
-robert null
+robert noun
 throughout preposition adverb
 pity noun verb_participle
 expense noun verb_transitive
 million noun definite_article
-explained null
+explained verb_participle
 leading adjective noun
 shadow noun verb_transitive
-suffered null
+suffered verb_participle
 virtue noun
 golden adjective
 famous adjective
@@ -475,12 +475,12 @@ finding noun verb_participle
 yellow noun adjective
 remains noun
 pointed adjective
-windows null
+windows plural
 louis noun
 willing adjective noun
-richard null
+richard noun
 season noun verb_transitive
-remarked null
+remarked verb_participle
 science noun
 tender adjective verb_transitive
 whispered adjective
@@ -501,7 +501,7 @@ reader noun
 published adjective
 direct verb_participle adjective
 handsome adjective
-posted null
+posted verb_participle
 approach verb_participle verb_transitive
 hearing noun adjective
 needed adjective
@@ -512,19 +512,19 @@ truly adverb
 numbers noun
 wounded adjective noun
 sorrow noun verb_intransitive
-listened null
+listened verb_participle
 palace noun
 affair noun
 contact noun verb_participle
 station noun verb_transitive
 listen verb_intransitive verb_participle
-becomes null
+becomes verb_intransitive
 watching noun
 express verb_transitive adjective
 occurred verb_intransitive
 favour noun verb_transitive
-subjects null
-follows null
+subjects plural verb_transitive
+follows verb_intransitive
 putting verb_participle noun
 lifted adjective
 suffer verb_participle verb_transitive
@@ -533,8 +533,8 @@ farther adverb adjective
 vessel noun
 advice noun
 empty adjective verb_participle
-duties null
-countries null
+duties plural
+countries plural
 pocket noun verb_transitive
 driven verb_participle adjective
 sentence noun verb_transitive
@@ -562,7 +562,7 @@ resolved adjective
 calling noun
 mention verb_transitive noun
 title noun verb_transitive
-forces null
+forces verb_transitive plural
 nearer adjective
 falling verb_participle noun
 bearing noun adjective
@@ -575,7 +575,7 @@ welcome adjective noun
 proposed adjective
 belief noun
 informed adjective
-moments null
+moments plural
 constant adjective noun
 final adjective noun
 faithful adjective noun
@@ -593,14 +593,14 @@ seated adjective
 amongst preposition
 current adjective noun
 sending verb_participle verb_intransitive
-parties null
-objects null
+parties plural verb_intransitive
+objects plural verb_intransitive
 bitter adjective adverb
 credit noun verb_transitive
 chosen verb_participle adjective
 printed adjective
 terror noun
-features null
+features plural verb_intransitive
 control verb_participle noun
 fifteen noun definite_article
 cruel adjective
@@ -613,9 +613,9 @@ deeply adverb
 colour noun verb_transitive
 destroy verb_participle verb_intransitive
 anger noun verb_transitive
-results null
+results plural
 increase verb_participle noun
-reasons null
+reasons plural
 friendly adjective noun
 entrance noun verb_transitive
 admit verb_participle verb_intransitive
@@ -631,10 +631,10 @@ release verb_transitive noun
 ended adjective
 devil noun verb_participle
 ahead adverb adjective
-degrees null
+degrees plural
 chamber noun verb_transitive
 mission noun verb_transitive
-cities null
+cities plural
 mistake noun verb_participle
 conscience noun
 buried verb_participle adjective
@@ -647,7 +647,7 @@ color noun verb_participle
 safety noun
 asleep adverb adjective
 centre noun verb_participle
-parents null
+parents plural
 escaped verb_participle adjective
 careful adjective
 enjoy verb_transitive verb_participle
@@ -663,7 +663,7 @@ total noun adjective
 kindness noun
 circle noun verb_participle
 extreme adjective noun
-figures null
+figures plural
 prison noun
 assured adjective noun
 hidden verb_participle adjective
@@ -673,12 +673,12 @@ apply verb_participle verb_intransitive
 labor verb_participle noun
 fairly adverb
 comply verb_participle
-fellows null
+fellows plural
 event noun
 gently adverb
 conscious adjective
-wishes null
-voices null
+wishes plural verb_intransitive
+voices plural verb_intransitive
 weary adjective verb_participle
 couple noun pronoun
 volume noun
@@ -692,8 +692,8 @@ asking noun
 lover noun
 showing noun
 composed adjective
-rendered null
-pictures null
+rendered verb_participle
+pictures plural verb_transitive
 singing noun
 eager noun adjective
 precious adjective adverb
@@ -704,11 +704,11 @@ manners noun
 cousin noun adverb
 trial noun adjective
 learning noun
-approached null
+approached verb_participle
 abroad adverb adjective
 paying verb_transitive noun
 writer noun
-readers null
+readers plural
 dreadful adjective
 female adjective noun
 protect verb_transitive verb_participle
@@ -719,10 +719,10 @@ avoid verb_transitive verb_participle
 hurried adjective
 favor noun verb_transitive
 mental adjective
-brothers null
+brothers plural
 solemn adjective
-causes null
-vessels null
+causes plural verb_transitive
+vessels plural
 compelled verb_participle adjective
 hotel noun
 wicked adjective
@@ -731,14 +731,14 @@ earnest adjective noun
 pardon verb_transitive noun
 seldom adverb
 record noun verb_participle
-branches null
+branches plural
 inquired verb_participle
 ruin noun verb_transitive
 cattle noun
 temple noun
 license verb_transitive noun
 consent verb_participle verb_intransitive
-natives null
+natives plural
 laughter noun
 contained adjective
 perceived adjective
@@ -755,14 +755,14 @@ severe adjective
 excuse verb_participle verb_transitive
 triumph noun verb_intransitive
 joseph noun
-pages null
+pages plural verb_intransitive
 charming adjective
 softly adverb
-performed null
+performed verb_participle
 likewise adverb
 frightened adjective
 remark verb_participle verb_transitive
-thousands null
+thousands plural
 inclined verb_participle adjective
 convinced verb_transitive adjective
 desert noun verb_transitive
@@ -772,7 +772,7 @@ observe verb_transitive verb_participle
 blessed adjective noun
 bosom noun verb_transitive
 striking adjective noun
-creatures null
+creatures plural
 shouted adjective
 guilty adjective
 setting noun adjective
@@ -781,16 +781,16 @@ slightly adverb
 police noun verb_transitive
 confess verb_participle verb_transitive
 murder noun verb_participle
-wondered null
+wondered verb_participle
 horror noun
 local adjective noun
 doctrine noun
-changes null
+changes plural verb_intransitive
 possess verb_transitive verb_participle
 trembling verb_participle noun
 disease noun
 mankind noun
-habits null
+habits plural
 estate noun
 humble adjective verb_transitive
 delay verb_transitive verb_intransitive
@@ -798,7 +798,7 @@ shining noun
 midnight noun adverb
 flower noun verb_intransitive
 hero noun
-classes null
+classes plural
 belong verb_intransitive verb_participle
 finger noun verb_transitive
 market noun verb_participle
@@ -812,11 +812,11 @@ lately adverb
 uttered adjective
 exact adjective verb_transitive
 image noun verb_transitive
-ages null
-murmured null
+ages plural
+murmured verb_participle
 refuse verb_transitive noun
-enjoyed null
-belonged null
+enjoyed verb_participle
+belonged verb_participle
 ashamed adjective
 reward noun verb_transitive
 nodded verb_participle
@@ -840,7 +840,7 @@ distinct adjective
 doubtless adverb adjective
 error noun
 utmost adjective noun
-methods null
+methods plural
 appeal noun verb_intransitive
 strongly adverb
 breaking noun adjective
@@ -856,7 +856,7 @@ exist verb_intransitive verb_participle
 alike adverb adjective
 mounted adjective
 issue noun verb_transitive
-measures null
+measures plural
 dared verb_participle
 reduced adjective
 weakness noun
@@ -864,8 +864,8 @@ furnished adjective
 china noun adjective
 flying adjective noun
 profit noun verb_participle
-movements null
-acted null
+movements plural
+acted verb_participle
 disposed adjective
 chapter noun verb_transitive
 helen noun
@@ -877,8 +877,8 @@ substance noun
 painful adjective
 ocean noun
 leader noun
-senses null
-inches null
+senses plural
+inches plural
 derived verb_participle adjective
 managed verb_participle
 preserved verb_participle adjective
@@ -900,10 +900,10 @@ frequent adjective verb_participle
 alarm verb_transitive noun
 nervous adjective
 aloud adverb
-stronger null
+stronger adjective
 loving adjective
-masters null
-writers null
+masters plural
+writers plural
 mortal adjective noun
 preserve verb_participle verb_intransitive
 burden noun verb_transitive
@@ -912,7 +912,7 @@ millions noun
 merry adjective
 clever adjective
 district noun verb_transitive
-shadows null
+shadows plural
 failure noun
 amid preposition
 profits noun
@@ -924,7 +924,7 @@ secured adjective
 wooden adjective verb_transitive
 prefer verb_participle verb_transitive
 fever noun verb_transitive
-daughters null
+daughters plural
 warning noun adjective
 impulse noun
 johnson noun
@@ -938,14 +938,14 @@ acquired verb_transitive adjective
 counsel noun verb_participle
 distress verb_transitive noun
 notion noun
-hundreds null
+hundreds plural
 firmly adverb
-actions null
+actions plural
 steady adjective verb_participle
-remarks null
+remarks plural
 empire noun
 idle adjective verb_participle
-online null
+online adjective
 permit verb_participle verb_transitive
 college noun
 maintain verb_transitive verb_participle
@@ -957,14 +957,14 @@ rested adjective
 lees noun
 occur verb_participle
 seeking verb_participle noun
-reports null
-begins null
+reports plural verb_intransitive
+begins verb_intransitive
 founded adjective
 instinct noun adjective
 cheerful adjective
 threatened adjective
 western adjective noun
-beings null
+beings plural
 pressure noun verb_transitive
 shelter noun verb_transitive
 revealed adjective
@@ -973,21 +973,21 @@ merit noun verb_transitive
 sleeping noun verb_participle
 coffee noun
 thereof adverb
-romans null
-requires null
-fathers null
+romans plural
+requires verb_transitive
+fathers plural
 prospect noun verb_participle
 obey verb_participle
 northern adjective noun
 profound adjective noun
 hungry adjective
-sisters null
+sisters plural
 assure verb_transitive verb_participle
 folly noun
 teaching noun
 venture verb_transitive verb_intransitive
 perceive verb_participle verb_transitive
-accounts null
+accounts plural
 eating noun adjective
 declare verb_participle verb_intransitive
 version noun
@@ -1001,19 +1001,19 @@ cottage noun
 leaning noun adjective
 settle verb_transitive verb_intransitive
 referred verb_participle
-francis null
+francis noun
 holder noun
 involved adjective
 sunshine noun
 council noun
-princes null
-strangers null
+princes plural
+strangers plural
 beheld verb_participle
 noted adjective
 slightest adjective
 widow noun verb_transitive
-errors null
-attacked null
+errors plural
+attacked verb_participle
 maintained adjective
 restored verb_transitive adjective
 concealed adjective
@@ -1025,48 +1025,48 @@ touching adjective preposition
 inner adjective noun
 derive verb_participle verb_transitive
 hollow adjective noun
-contains null
+contains verb_transitive
 province noun
-muttered null
+muttered verb_intransitive
 thither adverb
 oxford noun
 lofty adjective
 endure verb_participle verb_transitive
 succeed verb_intransitive verb_participle
-alice null
+alice noun
 hated verb_participle adjective
 acting adjective noun
 landed adjective
-passions null
+passions plural
 lightly adverb
 disturbed adjective
 supreme adjective noun
 display verb_transitive noun
 confined adjective
-poets null
+poets plural
 sounded adjective
 negro noun
 fearful adjective
 standard noun adjective
 studied adjective
-buildings null
+buildings plural
 commenced verb_intransitive verb_transitive
-deeper null
+deeper adjective
 repeat verb_participle verb_intransitive
 driving adjective noun
 drinking adjective noun
 treasure noun verb_transitive
-throwing null
+throwing adjective verb_participle
 tower noun verb_intransitive
 defend verb_participle verb_transitive
-desires null
-depends null
-poems null
+desires plural
+depends verb_transitive
+poems plural
 section noun verb_transitive
 staring verb_participle adjective
 marble noun verb_transitive
 awake verb_participle verb_transitive
-walter null
+walter noun
 shaking noun verb_participle
 butter noun verb_transitive
 fury noun
@@ -1082,10 +1082,10 @@ supplied verb_participle
 safely adverb
 describe verb_transitive verb_participle
 lesson noun verb_transitive
-passes null
+passes verb_transitive
 county noun adjective
 beaten adjective
-presents null
+presents verb_transitive
 format noun verb_participle
 sixty noun definite_article
 damage noun verb_transitive
@@ -1093,16 +1093,16 @@ commerce noun
 startled verb_participle adjective
 southern adjective
 outer adjective noun
-belongs null
+belongs verb_transitive
 naked adjective
-rivers null
+rivers plural
 concern verb_transitive noun
 magic noun adjective
 campaign noun verb_intransitive
 hunting noun
 whisper verb_participle verb_intransitive
 largely adverb
-exists null
+exists verb_intransitive
 teacher noun
 lawyer noun
 detail noun verb_transitive
@@ -1122,19 +1122,19 @@ victim noun
 gazing verb_participle
 absurd adjective
 gesture noun verb_participle
-armies null
+armies plural
 manage verb_participle verb_intransitive
-brethren null
-hastened null
+brethren plural
+hastened verb_participle
 motive noun adjective
 pointing noun adjective
-verses null
+verses plural
 pronounced adjective
 exchange verb_transitive noun
 remote adjective noun
 finish verb_participle verb_intransitive
 denied verb_transitive
-churches null
+churches plural
 rarely adverb
 ugly adjective
 harmless adjective
@@ -1148,10 +1148,10 @@ romance noun verb_participle
 structure noun verb_participle
 payment noun
 pace noun verb_transitive
-sources null
+sources plural
 inspired verb_participle adjective
-angels null
-troubles null
+angels plural
+troubles plural
 handle noun verb_participle
 fitted adjective
 refuge noun verb_participle
@@ -1162,7 +1162,7 @@ merchant noun verb_transitive
 whereas conjunction
 crossing noun adjective
 lively adjective adverb
-virtues null
+virtues plural
 conceived verb_participle adjective
 thereby adverb
 eighteen noun definite_article
@@ -1171,7 +1171,7 @@ preferred verb_transitive adjective
 ruined adjective
 wherein adverb pronoun
 condemned adjective
-happens null
+happens verb_intransitive
 billy noun
 holland noun
 beating noun adjective
@@ -1183,31 +1183,31 @@ autumn noun adjective
 absent adjective verb_participle
 doubtful adjective
 suspect verb_participle verb_transitive
-weapons null
-limits null
+weapons plural
+limits plural verb_transitive
 feeble adjective
 prophet noun
 basis noun
 corrupt adjective verb_participle
-payments null
-returns null
+payments plural
+returns plural verb_intransitive
 laying noun
 purchase verb_transitive noun
 rival noun verb_participle
 someone pronoun noun
 defeat verb_transitive noun
-demands null
-consists null
-studies null
+demands plural verb_intransitive
+consists verb_transitive
+studies plural verb_intransitive
 balance noun verb_intransitive
-forming null
+forming verb_participle
 slender adjective
 silly adjective noun
 humour noun verb_transitive
 masses noun
 recall verb_transitive noun
 discourse noun verb_participle
-regions null
+regions plural
 assist verb_participle verb_intransitive
 novel noun adjective
 hither adverb adjective
@@ -1217,17 +1217,17 @@ lucy noun
 yonder adverb definite_article
 jealous adjective
 risen verb_participle adjective
-marie null
+marie noun
 swiftly adverb
 portrait noun
 create verb_transitive verb_intransitive
-summoned null
+summoned verb_participle
 suggest verb_transitive verb_participle
 induced verb_transitive adjective
 conflict noun verb_participle
 helpless adjective
 lincoln noun
-germans null
+germans plural
 vengeance noun
 gracious adjective interjection
 include verb_transitive verb_participle
@@ -1237,10 +1237,10 @@ implied adjective
 stupid adjective noun
 wearing adjective noun
 conceal verb_transitive verb_participle
-pleasures null
+pleasures plural verb_transitive
 therein adverb
 assume verb_transitive verb_participle
-gardens null
+gardens plural verb_intransitive
 closer noun verb_participle
 thunder noun verb_participle
 graceful adjective
@@ -1249,14 +1249,14 @@ saddle noun verb_participle
 supplies verb_participle noun
 weeping adjective noun
 mostly adverb
-agents null
+agents plural
 software noun
 losing adjective
-attempts null
+attempts plural verb_transitive
 receipt noun verb_transitive
 dearest noun
 finest adverb verb_participle
-motives null
+motives plural
 fastened adjective
 confused verb_transitive adjective
 fancied adjective
@@ -1267,7 +1267,7 @@ reckon verb_participle verb_transitive
 dirty adjective verb_participle
 rolling adjective adverb
 platform noun
-offers null
+offers plural verb_transitive
 mischief noun
 imposed verb_participle adjective
 student noun
@@ -1277,7 +1277,7 @@ sincere adjective
 gravely adverb
 combined verb_participle adjective
 gallant adjective noun
-charges null
+charges plural verb_intransitive
 submit verb_participle verb_transitive
 virgin noun adjective
 farewell noun verb_transitive
@@ -1297,18 +1297,18 @@ deadly adjective adverb
 chin adjective noun
 adam noun
 hostile adjective
-wandered null
+wandered verb_participle
 railway noun
-betrayed null
+betrayed verb_participle
 admired verb_participle adjective
-ruins null
+ruins plural verb_transitive
 eastern adjective
-roses null
+roses plural
 deceived verb_participle
-tables null
+tables plural
 starting noun
 feature noun verb_transitive
-counted null
+counted verb_participle
 reserve verb_transitive noun
 strangely adverb
 absorbed adjective
@@ -1321,7 +1321,7 @@ clothing noun
 dollar noun
 illness noun
 calmly adverb
-obeyed null
+obeyed verb_participle
 pressing adjective noun
 daylight noun
 comment noun verb_participle
@@ -1343,9 +1343,9 @@ column noun
 cunning adjective noun
 drama noun
 proofread verb_participle
-yielded null
+yielded verb_participle
 conceive verb_participle verb_transitive
-lessons null
+lessons plural
 candle noun verb_transitive
 offence noun
 mixture noun
@@ -1364,7 +1364,7 @@ repose noun verb_participle
 copied adjective
 user noun
 income noun
-regards null
+regards plural
 bishop noun
 lightning noun
 authors noun
@@ -1374,10 +1374,10 @@ orange noun adjective
 painting noun
 careless adjective
 doorway noun
-volumes null
+volumes plural
 vulgar adjective
 sunset noun adjective
-recalled null
+recalled verb_participle
 abode noun verb_participle
 planted adjective
 promptly adverb
@@ -1387,81 +1387,81 @@ deserve verb_transitive verb_intransitive
 mirror noun verb_transitive
 upward adjective adverb
 sadly adverb
-adding null
+adding verb_participle
 modest adjective
 advised adjective
 largest adjective
 restless adjective
 meantime noun adverb
-lovers null
+lovers plural
 today noun adverb
 moonlight noun verb_participle
 intend verb_participle verb_transitive
 rocky adjective
 pious adjective
-garments null
-merchants null
-products null
+garments plural
+merchants plural
+products plural
 dispute verb_participle verb_transitive
 poison noun verb_transitive
 maybe adverb
 rifle noun verb_transitive
 parting noun adjective
 employ verb_transitive noun
-prevailed null
+prevailed verb_participle
 talent noun
-rises null
+rises verb_intransitive
 climate noun
 unlike adjective preposition
 arrange verb_transitive verb_intransitive
-fortunes null
+fortunes plural
 puzzled verb_participle adjective
 aged adjective noun
-ashes null
-bushes null
+ashes plural
+bushes plural
 esteem verb_transitive noun
 nonsense noun interjection
 stolen verb_participle adjective
 earthly adjective
 restore verb_transitive verb_participle
-lasted null
+lasted verb_participle
 selfish adjective
 renewed adjective
 canoe noun verb_participle
 protest noun verb_participle
-races null
+races plural verb_intransitive
 chapel noun
 upright adjective adverb
 quoted verb_participle
 formal adjective noun
-students null
+students plural
 greatness noun
 reproach verb_transitive noun
 altered adjective
-questioned null
+questioned verb_participle
 bestowed adjective
 pursue verb_participle
 gladly adverb
 linen noun
 vital adjective noun
 hopeless adjective
-dangers null
+dangers plural
 travelled adjective
 nephew noun
 bloody adjective adverb
-commands null
+commands plural verb_intransitive
 stomach noun verb_transitive
 improved verb_participle adjective
 admire verb_transitive verb_participle
-sailors null
+sailors plural
 abide verb_participle verb_transitive
-forests null
-records null
-statements null
+forests plural
+records plural verb_transitive
+statements plural
 upstairs adverb noun
 varied adjective
 letting verb_participle noun
-comrades null
+comrades plural
 descent noun
 whither adverb conjunction
 envy noun verb_participle
@@ -1475,7 +1475,7 @@ alas interjection adverb
 center noun verb_participle
 colonel noun
 contest noun verb_participle
-chances null
+chances plural
 alter verb_participle verb_transitive
 landing noun
 statue noun
@@ -1488,7 +1488,7 @@ injured adjective
 smoking noun verb_participle
 inform verb_transitive verb_intransitive
 retained adjective
-nobles null
+nobles plural
 embrace verb_participle noun
 closing verb_participle noun
 damaged verb_participle adjective
@@ -1499,14 +1499,14 @@ capture verb_transitive noun
 inquire verb_intransitive verb_participle
 ample adjective
 justly adverb
-answers null
+answers plural
 bedroom noun
 purely adverb
 thyself pronoun
 refer verb_participle verb_transitive
 madam noun
 railroad noun verb_transitive
-columns null
+columns plural
 discharge verb_participle verb_transitive
 rescue verb_participle noun
 limit noun verb_transitive
@@ -1516,24 +1516,24 @@ reserved adjective
 persuade verb_transitive verb_participle
 deprived adjective
 endless adjective
-heroes null
+heroes plural
 lowest adjective
 withdrew verb_participle
 commons noun
 loaded adjective
 amidst preposition
-titles null
+titles plural
 madness noun
 assigned adjective
 declined verb_participle
-jewels null
+jewels plural
 youthful adjective
 stately adjective adverb
-fragments null
+fragments plural verb_transitive
 rushing noun adjective
 product noun
 sickness noun
-uses null
+uses plural verb_transitive
 engine noun
 ashore adverb
 leather noun verb_transitive
@@ -1544,7 +1544,7 @@ steamer noun
 designed adjective
 roger interjection verb_participle
 timber noun verb_transitive
-talents null
+talents plural
 murdered adjective
 vivid adjective
 killing adjective noun
@@ -1552,13 +1552,13 @@ laura noun
 wasted verb_participle adjective
 trifle noun verb_intransitive
 funny adjective noun
-pockets null
+pockets plural
 insult verb_participle verb_transitive
-temples null
+temples plural
 robin noun
 wishing noun
 flowing adjective noun
-lawyers null
+lawyers plural
 murmur noun verb_participle
 stopping noun adjective
 welfare noun adjective
@@ -1568,22 +1568,22 @@ sober adjective verb_participle
 infant noun adjective
 norman noun
 humor noun verb_transitive
-footsteps null
+footsteps plural
 marquis noun
 twilight noun adjective
-arrows null
+arrows plural
 retire verb_participle verb_transitive
-secrets null
+secrets plural
 halted adjective
 govern verb_participle
 colors noun
-tempted null
+tempted verb_participle
 frontier noun adjective
 dealing noun
 decent adjective adverb
 fiery adjective
 punished adjective
-rejoined null
+rejoined verb_participle
 major noun adjective
 placing verb_participle
 prudence noun
@@ -1591,17 +1591,17 @@ border noun verb_transitive
 fanny noun
 exempt verb_transitive noun
 anchor noun verb_participle
-purchased null
-neighbors null
+purchased verb_participle
+neighbors plural
 glowing adjective noun
 sunlight noun
 wealthy adjective
 seeming adjective noun
 shouting noun
 naval adjective
-doubted null
+doubted verb_participle
 painter noun
-greeted null
+greeted verb_participle
 erect adjective verb_participle
 glasses noun
 meanwhile adverb noun
@@ -1613,16 +1613,16 @@ anna noun
 header noun
 clergy noun
 array noun verb_transitive
-corners null
+corners plural
 loudly adverb
 texas noun
 searching adjective noun
-includes null
+includes verb_transitive
 boldly adverb
-seconds null
+seconds plural
 despite preposition noun
 hoping verb_participle
-problems null
+problems plural
 landscape noun verb_transitive
 scarlet noun adjective
 mainly adverb
@@ -1638,7 +1638,7 @@ sweetness noun
 dismissed adjective
 affect verb_participle verb_transitive
 shaken verb_participle adjective
-evils null
+evils plural
 peasant noun
 conveyed adjective
 extend verb_participle verb_transitive
@@ -1650,7 +1650,7 @@ victor noun
 bending noun
 minor adjective noun
 crimson noun verb_participle
-teachers null
+teachers plural
 bargain noun verb_participle
 fatigue noun verb_participle
 dislike verb_transitive noun
@@ -1658,7 +1658,7 @@ witnessed adjective
 acres noun
 normal adjective noun
 sofa noun
-mothers null
+mothers plural
 deserved adjective
 persian noun
 driver noun
@@ -1669,13 +1669,13 @@ berlin noun
 smallest adjective
 excess noun adjective
 disgust verb_transitive noun
-speeches null
-herbert null
+speeches plural
+herbert noun
 convent noun
 rightly adverb
 reform verb_transitive noun
-treasures null
-designs null
+treasures plural
+designs verb_transitive plural
 filling noun
 fortnight noun
 frightful adjective
@@ -1687,12 +1687,12 @@ relieve verb_transitive verb_participle
 unjust adjective
 project noun verb_participle
 threshold noun
-merits null
+merits plural verb_transitive
 morrow noun
-traces null
+traces plural verb_intransitive
 induce verb_transitive verb_participle
 inward adjective adverb
-pupils null
+pupils plural
 fairy noun adjective
 conclude verb_participle
 lucky adjective
@@ -1700,7 +1700,7 @@ session noun
 torture verb_transitive noun
 hearty adjective noun
 thoughtful adjective
-strongest null
+strongest adjective
 warrant noun verb_transitive
 complaint noun
 guarded adjective
@@ -1708,18 +1708,18 @@ angle noun verb_participle
 widely adverb
 charlotte noun
 ardent adjective
-victims null
+victims plural
 foremost adjective adverb
 fountain noun
 sustained adjective
-clara null
+clara noun
 lewis noun
 rejoice verb_participle verb_transitive
 collar noun verb_transitive
 hasty adjective
 organ noun
 replace verb_transitive verb_participle
-districts null
+districts plural
 released verb_participle adjective
 compare verb_transitive verb_intransitive
 relate verb_transitive verb_intransitive
@@ -1729,13 +1729,13 @@ velvet noun adjective
 stirring adjective noun
 missing adjective
 facing noun
-peoples null
+peoples plural
 disturb verb_transitive verb_participle
 sermon noun
 exchanged verb_participle adjective
 partner noun verb_participle
 lowered adjective
-estates null
+estates plural
 abuse verb_participle verb_transitive
 notions noun
 cannon noun verb_participle
@@ -1747,41 +1747,41 @@ prudent adjective
 caution noun verb_transitive
 awhile adverb
 cigar noun
-lifting null
+lifting verb_participle
 tidings noun
 liquid noun adjective
 staying verb_participle
 concept noun
 download verb_participle
-meetings null
+meetings verb_participle plural
 practised adjective
 combat noun verb_participle
 subdued adjective
 blowing noun verb_participle
 extra adjective noun
 japan noun adjective
-portions null
+portions plural
 awkward adjective
 horrid adjective
 pulling noun
 jury noun adjective
-attacks null
+attacks plural
 monster noun
-simon null
+simon noun
 frozen verb_participle adjective
 survive verb_transitive verb_participle
-ellen null
+ellen noun
 briefly adverb
 sublime adjective noun
 dropping noun adjective
 penny noun adjective
 adopt verb_transitive verb_participle
 replaced verb_transitive
-formats null
+formats plural
 curtains noun
 helping noun
 insist verb_participle
-occurs null
+occurs verb_transitive
 latest adjective adverb
 apple noun
 pupil noun
@@ -1808,22 +1808,22 @@ serving noun
 engage verb_participle verb_intransitive
 attain verb_transitive verb_intransitive
 collect verb_participle verb_transitive
-disclaims null
-borrowed null
+disclaims verb_transitive
+borrowed verb_participle
 convert verb_participle verb_intransitive
 outline noun verb_transitive
-peasants null
+peasants plural
 assault noun verb_transitive
 deceive verb_transitive verb_participle
-doctrines null
+doctrines plural
 struggled verb_participle
 hiding noun
-prices null
+prices plural
 procured verb_participle
 mourning noun adjective
 withdraw verb_participle verb_transitive
 polished adjective
-dishes null
+dishes plural verb_transitive
 parent noun verb_participle
 contrived adjective
 akin adjective
@@ -1832,19 +1832,19 @@ disguise verb_participle verb_transitive
 neighbour noun verb_participle
 punish verb_participle verb_transitive
 worldly adjective adverb
-muscles null
+muscles plural
 elbow noun verb_participle
 trifling adjective noun
 decline verb_participle verb_intransitive
 filename noun
-artists null
+artists plural
 repair verb_transitive noun
 eagle noun verb_participle
 barren adjective noun
-functions null
+functions plural
 guided adjective verb_participle
 fiction noun
-shillings null
+shillings plural
 duly adverb
 governed noun
 scripture noun
@@ -1864,7 +1864,7 @@ arrow noun
 fitting adjective noun
 essence noun
 glancing verb_participle
-complained null
+complained verb_participle
 staircase noun
 accord noun verb_participle
 sally noun verb_participle
@@ -1872,7 +1872,7 @@ tremble verb_intransitive noun
 exile noun verb_participle
 gospel noun
 scholar noun
-wonders null
+wonders plural verb_intransitive
 arab noun
 likeness noun
 harbour noun verb_transitive
@@ -1880,7 +1880,7 @@ jolly adjective adverb
 ruler noun
 crazy adjective noun
 madame noun
-deepest null
+deepest adjective
 lordship noun
 greeting noun
 monstrous adjective
@@ -1900,7 +1900,7 @@ defense noun
 oldest adjective
 bidding noun
 elect verb_transitive adjective
-harder null
+harder adjective
 winding noun adjective
 liquor noun verb_participle
 perished adjective
@@ -1912,7 +1912,7 @@ taylor noun
 legend noun
 shallow adjective noun
 dreaded adjective
-battles null
+battles plural
 compass noun verb_transitive
 harvest noun verb_participle
 transfer verb_participle noun
@@ -1924,12 +1924,12 @@ rigid adjective
 tragic adjective
 review verb_participle noun
 melted adjective
-towers null
+towers plural
 cooking noun adjective
 oppressed adjective
 revolt noun verb_intransitive
 improve verb_participle verb_transitive
-describes null
+describes verb_transitive
 goddess noun
 convince verb_transitive verb_participle
 westward adjective adverb
@@ -1944,10 +1944,10 @@ rejoiced verb_participle
 challenge verb_participle verb_intransitive
 forbid verb_participle verb_transitive
 thankful adjective
-enters null
+enters verb_transitive
 genus noun
 newly adverb
-sorrows null
+sorrows plural
 pattern noun verb_participle
 reveal verb_transitive noun
 endured verb_participle
@@ -1957,7 +1957,7 @@ errand noun
 righteous adjective
 oppose verb_transitive verb_intransitive
 joyous adjective
-doctors null
+doctors plural
 organs noun
 haunted adjective
 chorus noun verb_participle
@@ -1965,32 +1965,32 @@ adorned adjective
 resort verb_intransitive noun
 preacher noun
 casting noun
-opens null
+opens verb_intransitive
 prophets noun
 warmly adverb
 satan noun
-workers null
+workers plural
 lantern noun
 excite verb_transitive verb_participle
-howard null
+howard noun
 horseback noun
-farmers null
+farmers plural
 wildly adverb
 carpet noun verb_transitive
 sadness noun
-circles null
+circles plural
 allied adjective
 ceiling noun
-glances null
-diamonds null
+glances plural verb_transitive
+diamonds plural
 vacant adjective
 despise verb_transitive verb_participle
-appealed null
+appealed verb_participle
 turkey noun
 neighbor noun verb_participle
 spreading noun
 discharged verb_participle adjective
-phrases null
+phrases plural
 entry noun
 hardy adjective noun
 thorough adjective
@@ -2001,19 +2001,18 @@ grandeur noun
 winning adjective noun
 solely adverb
 malice noun
-echoed null
+echoed verb_participle
 lodging noun
 whistle verb_participle verb_transitive
-floated null
+floated verb_participle
 transferred verb_participle
-reckoned null
+reckoned verb_participle
 downstairs adverb noun
 invite verb_participle verb_transitive
 sandy adjective
 escort noun verb_participle
 harbor noun verb_transitive
-negroes null
-concerns null
+concerns plural verb_transitive
 wander verb_participle noun
 assert verb_transitive verb_participle
 dismay verb_transitive noun
@@ -2022,21 +2021,21 @@ jimmy noun verb_participle
 haughty adjective
 navy noun
 fortress noun verb_transitive
-blessings null
-insects null
+blessings plural
+insects plural
 selling verb_participle noun
 suppressed adjective
 acquire verb_transitive verb_participle
-dresses null
+dresses plural verb_transitive
 coldly adverb
-candles null
+candles plural
 blazing verb_participle verb_transitive
-youngest null
+youngest adjective
 lecture noun verb_participle
 parlor noun
 whereby pronoun adverb
-gordon null
-quitted null
+gordon noun
+quitted verb_participle
 function noun verb_intransitive
 morals noun
 pouring noun
@@ -2056,15 +2055,15 @@ dated adjective
 tumult noun
 summons noun verb_participle
 comrade noun
-lingered null
+lingered verb_participle
 stillness noun
 partial adjective noun
 welcomed adjective
 proceeds noun
 surgeon noun
-borders null
+borders plural verb_transitive
 unite verb_participle verb_transitive
-owners null
+owners plural
 sweeping adjective noun
 saviour noun
 graham noun
@@ -2072,26 +2071,26 @@ behaved verb_participle
 pleaded verb_participle
 lawful adjective
 tommy noun
-seasons null
+seasons plural verb_transitive
 withdrawn verb_participle adjective
 reckless adjective
 gossip noun verb_intransitive
 seventh adjective noun
 journal noun
-systems null
+systems plural
 token noun verb_transitive
 abstract adjective noun
-machines null
+machines plural verb_transitive
 bestow verb_transitive verb_participle
 accent noun verb_participle
-symptoms null
+symptoms plural
 ragged adjective
 swinging verb_participle noun
 whereof adverb pronoun
-indies null
-novels null
+indies plural
+novels plural
 failing noun preposition
-santa null
+santa noun
 approve verb_participle verb_transitive
 miller noun
 lodgings noun
@@ -2103,9 +2102,9 @@ survey verb_participle verb_transitive
 amuse verb_transitive verb_participle
 stretching noun
 forthwith adverb
-receives null
+receives verb_transitive
 scandal noun verb_transitive
-donors null
+donors plural
 symbol noun verb_participle
 repaired adjective
 homage noun verb_participle
@@ -2114,13 +2113,13 @@ washing noun
 pavement noun
 wisely adverb
 precise adjective
-visions null
+visions plural
 maggie noun
 rosy adjective
 feeding noun verb_participle
-allen null
-husbands null
-labours null
+allen noun
+husbands plural
+labours verb_intransitive
 reduce verb_participle
 distressed adjective
 clearing noun
@@ -2128,7 +2127,7 @@ scottish noun
 vaguely adverb
 treason noun
 hunter noun
-chambers null
+chambers plural
 yielding adjective noun
 liking noun
 tyrant noun
@@ -2139,7 +2138,7 @@ concert noun verb_participle
 downward adjective adverb
 canal noun verb_participle
 evenings adverb
-fancies null
+fancies verb_transitive plural
 murray noun
 finer adjective
 roaring adjective adverb
@@ -2151,7 +2150,7 @@ garment noun verb_transitive
 wholesome adjective
 remorse noun
 plato noun
-morris null
+morris noun
 porter noun
 esteemed adjective
 cherished adjective
@@ -2159,10 +2158,10 @@ brandy noun
 homer noun verb_participle
 acute adjective noun
 motor noun adjective
-janet null
+janet noun
 offspring noun
 network noun verb_participle
-reaches null
+reaches verb_intransitive
 proudly adverb
 baggage noun
 terrace noun verb_transitive
@@ -2176,28 +2175,28 @@ endowed adjective
 strengthened adjective
 echo noun verb_participle
 restraint noun
-trials null
+trials plural
 headed adjective
 softened adjective
-stages null
+stages plural
 professed adjective
 era noun
 wider adjective
-eyebrows null
+eyebrows plural
 afar adverb noun
 consist verb_intransitive verb_participle
-displays null
+displays plural verb_transitive
 flashing noun adjective
 hunted adjective
-beauties null
+beauties plural
 lazy adjective
-devils null
+devils plural
 compact adjective verb_participle
 breathless adjective
 revived verb_participle adjective
 counter noun adverb
 venus noun
-despatched null
+despatched verb_participle
 climbing noun
 attract verb_participle
 crystal noun adjective
@@ -2206,18 +2205,18 @@ wondrous adjective
 await verb_transitive verb_intransitive
 armour noun verb_transitive
 massive adjective
-bottles null
+bottles plural
 cellar noun verb_transitive
 falsehood noun
-pillars null
-edgar null
-martha null
+pillars plural
+edgar noun
+martha noun
 stealing noun verb_participle
 noisy adjective
 henceforth adverb
 laden adjective verb_participle
 device noun
-touches null
+touches plural verb_transitive
 senate noun
 lasting adjective noun
 transport verb_participle verb_transitive
@@ -2228,7 +2227,7 @@ clinging verb_participle
 darkened adjective
 swallow verb_participle verb_intransitive
 nancy noun
-labors null
+labors verb_intransitive
 indulge verb_participle verb_transitive
 bravely adverb
 kneeling verb_participle noun
@@ -2238,7 +2237,7 @@ noblest adjective
 complex adjective noun
 tempest noun verb_transitive
 guidance noun
-prospects null
+prospects plural
 humbly adverb
 serene adjective
 roughly adverb
@@ -2252,15 +2251,15 @@ creeping noun
 matthew noun
 pony noun
 vigour noun
-accepts null
+accepts verb_intransitive
 drunken adjective
 worried adjective
 hasten verb_participle verb_transitive
-instincts null
+instincts plural
 ghastly adjective adverb
 patron noun
-stations null
-louder null
+stations plural
+louder adjective
 bursting verb_participle adjective
 mournful adjective
 traitor noun
@@ -2268,7 +2267,7 @@ cautious adjective noun
 prior adjective noun
 beggar noun verb_transitive
 chimney noun
-davis null
+davis noun
 striving noun
 converse verb_participle verb_intransitive
 graces noun
@@ -2276,56 +2275,56 @@ eastward adjective adverb
 handful noun
 usage noun
 villain noun
-banished null
+banished verb_participle
 serpent noun
-captains null
-settlers null
-gaining null
+captains plural
+settlers plural
+gaining verb_participle
 valiant adjective
 buying verb_participle noun
 shepherd noun verb_transitive
 heated adjective
-travels null
-ali null
+travels plural
+ali noun
 hostess noun
 urgent adjective
 suffice verb_participle
-drifted null
+drifted verb_participle
 deceased adjective noun
 alert adjective noun
 aided adjective
 blanket noun verb_transitive
 pretence noun
-andy null
+andy noun
 oven noun
 rounded adjective
 northward adjective adverb
 dusty adjective
-bishops null
-complaints null
+bishops plural
+complaints plural
 hinder verb_participle verb_transitive
 extract verb_participle verb_transitive
 lighter noun verb_participle
-kisses null
+kisses plural
 sternly adverb
 footing noun
 statesman noun
-rebels null
-edges null
+rebels plural
+edges plural verb_intransitive
 stormy adjective
 bury verb_participle
 actor noun
-blossoms null
-ethel null
+blossoms plural verb_intransitive
+ethel noun
 polish verb_participle verb_transitive
 shudder verb_intransitive noun
 begging verb_participle noun
-amy null
+amy noun
 cargo noun
 skilful adjective
 conferred verb_participle adjective
 torment verb_participle verb_transitive
-blankets null
+blankets plural
 covers noun
 bonnet noun verb_participle
 persia noun
@@ -2354,7 +2353,7 @@ sustain verb_transitive verb_participle
 epoch noun
 lacking preposition adjective
 granite noun
-delights null
+delights plural
 joyful adjective
 slumber verb_intransitive verb_transitive
 detached adjective
@@ -2368,36 +2367,35 @@ rely verb_participle
 dimly adverb
 withered adjective
 diet noun verb_participle
-praises null
+praises plural verb_intransitive
 fulfil verb_participle
 mantle noun verb_transitive
 chicken noun adjective
 barrel noun verb_participle
 distrust verb_participle noun
-hunters null
+hunters plural
 feather noun verb_transitive
 goodly adjective
 luncheon noun
 eighteenth adjective noun
 expert noun adjective
 coolly adverb
-mistakes null
+mistakes plural
 jacket noun verb_transitive
 gleaming noun
 swimming noun verb_participle
 perplexed adjective
-emma null
+emma noun
 impress verb_participle verb_transitive
 bounded adjective
 worshipped verb_participle adjective
 baker noun
 shattered adjective
 olive noun adjective
-ernest null
 martial adjective
 waiter noun
-detained null
-items null
+detained verb_participle
+items plural
 promote verb_transitive verb_participle
 seizing noun
 sinner noun
@@ -2419,14 +2417,14 @@ fragrant adjective
 bleeding adjective adverb
 sheltered adjective
 circuit noun verb_participle
-tended null
-lectures null
+tended verb_participle
+lectures plural
 plunder verb_participle verb_transitive
 jungle noun
-numbered null
+numbered verb_participle
 famine noun
 fuller noun verb_transitive
-darted null
+darted verb_participle
 fuel noun verb_participle
 tranquil adjective
 vicious adjective
@@ -2440,14 +2438,14 @@ closet noun verb_transitive
 compel verb_participle
 inland adjective noun
 pretext noun
-stationed null
+stationed verb_participle
 margin noun verb_transitive
 settling verb_participle noun
 billion noun definite_article
-shorter null
+shorter adjective
 betwixt preposition adverb
 morgan noun
-chapters null
+chapters plural
 worthless adjective
 charlie noun
 scanty adjective noun
@@ -2457,7 +2455,7 @@ suspense noun
 dining verb_participle noun
 joining noun
 weekly adjective adverb
-trenches null
+trenches plural
 borrow verb_participle verb_intransitive
 swelling noun adjective
 favoured adjective
@@ -2472,11 +2470,11 @@ dispersed verb_participle adjective
 sergeant noun
 brigade noun verb_transitive
 verdict noun
-honors null
+honors plural verb_transitive
 panting noun
-females null
-richest null
-brighter null
+females plural
+richest adjective
+brighter adjective
 tiger noun
 sabbath noun
 crooked adjective
@@ -2488,9 +2486,9 @@ spacious adjective
 tearing adjective noun
 ally verb_participle verb_transitive
 ascent noun
-fishes null
+fishes plural verb_intransitive
 rubbing noun
-standards null
+standards plural
 afore adverb preposition
 ribbon noun verb_transitive
 pulpit noun
@@ -2501,7 +2499,7 @@ perfume noun verb_participle
 bother verb_transitive noun
 essay noun verb_transitive
 renew verb_participle
-suggests null
+suggests verb_transitive
 rider noun
 leaping noun
 squadron noun
@@ -2511,7 +2509,7 @@ homeward adjective adverb
 finely adverb
 marvel verb_participle noun
 condemn verb_transitive verb_participle
-elders null
+elders plural
 sweetly adverb
 unique adjective noun
 piercing adjective
@@ -2519,7 +2517,7 @@ sanction noun verb_transitive
 forlorn adjective
 dispose verb_intransitive verb_transitive
 withal adverb preposition
-sweetest null
+sweetest adjective
 consul noun
 raging verb_participle adjective
 publish verb_participle verb_intransitive
@@ -2528,12 +2526,12 @@ insight noun
 stature noun
 oblige verb_transitive verb_participle
 urging verb_participle noun
-courses null
+courses plural verb_transitive
 countless adjective
 rapture noun verb_transitive
 tonight noun adverb
 trumpet noun verb_participle
-parker null
+parker noun
 firmness noun
 comic adjective noun
 breeding noun adjective
@@ -2544,14 +2542,14 @@ stumbled verb_participle
 gladness noun
 practise verb_participle verb_transitive
 judging verb_participle noun
-treating null
+treating verb_participle
 forcing verb_participle
 ascend verb_participle verb_intransitive
 countess noun
 binding noun adjective
 exceed verb_participle verb_transitive
 champagne noun
-shuddered null
+shuddered verb_intransitive
 carter noun
 parson noun
 rascal noun adjective
@@ -2559,7 +2557,7 @@ inspire verb_participle verb_transitive
 banner noun adjective
 divorce noun verb_participle
 nineteenth adjective noun
-weaker null
+weaker adjective
 ticket noun verb_transitive
 backwards adverb
 provoked verb_transitive adjective
@@ -2569,23 +2567,23 @@ passive adjective noun
 mystic noun adjective
 tavern noun
 cradle noun verb_transitive
-rifles null
+rifles verb_intransitive plural
 censure noun verb_participle
 sobbing verb_participle noun
 wearied adjective
 needful adjective
 fireplace noun
 gravel noun verb_participle
-affords null
-prompted null
-bullets null
+affords verb_transitive
+prompted verb_participle
+bullets plural
 moisture noun
 furnace noun
 healing adjective noun
 fewer adjective pronoun
 apron noun verb_transitive
 rotten adjective
-richer null
+richer adjective
 pamphlet noun
 divers definite_article adjective
 detach verb_transitive verb_participle
@@ -2593,7 +2591,7 @@ gaily adverb
 gifted adjective
 planet noun
 enforced verb_transitive adjective
-vincent null
+vincent noun
 fluid noun adjective
 brightly adverb
 damsel noun
@@ -2610,13 +2608,13 @@ pronounce verb_participle verb_transitive
 hastings noun
 grievous adjective
 beseech verb_participle
-dances null
+dances verb_intransitive
 commence verb_participle
 daisy noun
 pleading noun adjective
 disdain noun verb_transitive
 parcel noun verb_participle
-replies null
+replies verb_intransitive plural
 drawer noun
 homely adjective
 ruling noun adjective
@@ -2624,10 +2622,10 @@ printing noun
 blossom noun verb_intransitive
 bridle noun verb_transitive
 waistcoat noun
-extends null
+extends verb_intransitive
 confirm verb_transitive verb_participle
 listing noun
-projects null
+projects plural verb_intransitive
 deprive verb_transitive verb_participle
 traversed verb_participle
 announce verb_transitive verb_intransitive
@@ -2642,44 +2640,44 @@ despatch verb_transitive noun
 reject verb_participle verb_transitive
 ruby noun adjective
 fragment noun verb_participle
-darker null
+darker adjective
 flatter verb_participle verb_transitive
-patches null
+patches plural
 ordained adjective
 devout adjective
 outrage noun verb_transitive
 vary verb_participle verb_transitive
 doubled adjective noun
-sidney null
+sidney noun
 schooner noun
 flaming adjective noun
 offend verb_participle verb_transitive
 sheriff noun
-encamped null
+encamped verb_participle
 nobler adjective
 packet noun verb_transitive
 shabby adjective
 classic adjective noun
 accuse verb_participle
-bridges null
-players null
+bridges plural verb_transitive
+players plural
 sixteenth adjective noun
-embarked null
+embarked verb_participle
 idol noun
 pension noun verb_transitive
 tumbled verb_participle
 monkey noun verb_intransitive
 hazard noun verb_transitive
-dora null
+dora noun
 attire verb_transitive noun
 marine adjective noun
 soothing verb_participle adjective
 devised verb_participle
 singer noun
-spaces null
+spaces plural verb_transitive
 disguised verb_participle adjective
 antique noun adjective
-poisoned null
+poisoned verb_participle
 alien noun adjective
 sorely adverb
 summon verb_transitive verb_participle
@@ -2690,7 +2688,7 @@ thickly adverb
 sounding adjective noun
 sombre adjective
 duel noun verb_participle
-implies null
+implies verb_transitive
 cable noun verb_participle
 ridden verb_participle adjective
 acre noun
@@ -2704,7 +2702,7 @@ prairie noun
 feudal adjective
 easter noun
 freshness noun
-crosses null
+crosses plural verb_transitive
 blushing adjective
 equipped verb_transitive adjective
 sinful adjective
@@ -2730,14 +2728,14 @@ outfit noun verb_participle
 valour noun
 grammar noun
 relaxed adjective
-mentions null
+mentions plural verb_transitive
 muddy adjective verb_participle
-arches null
-aspects null
+arches plural verb_transitive
+aspects plural
 senior adjective noun
 fragrance noun
 jenny noun
-choosing null
+choosing verb_participle
 frighten verb_transitive verb_participle
 grotesque adjective noun
 tutor noun verb_participle
@@ -2752,7 +2750,7 @@ boyhood noun
 thickness noun
 darwin noun
 fixing noun verb_participle
-harris null
+harris noun
 rustic adjective noun
 nodding verb_participle adjective
 snowy adjective
@@ -2764,13 +2762,13 @@ muscle noun verb_intransitive
 speedy adjective
 daybreak noun
 coral noun adjective
-fairest null
+fairest adjective noun
 bondage noun
 grandson noun
 leo noun
 proving verb_transitive verb_intransitive
 mounting noun
-rushes null
+rushes plural verb_intransitive
 watchful adjective
 harness noun verb_transitive
 perchance adverb
@@ -2796,7 +2794,7 @@ armor noun verb_participle
 detect verb_transitive verb_participle
 banker noun
 disclaim verb_transitive verb_participle
-watches null
+watches plural verb_intransitive
 achieve verb_participle verb_transitive
 incense noun verb_participle
 jordan noun
@@ -2805,11 +2803,11 @@ scoundrel noun
 howling adjective adverb
 tailor noun verb_participle
 flourish verb_intransitive noun
-trifles null
+trifles plural
 dashing adjective
 shameful adjective
-topics null
-expends null
+topics plural
+expends verb_intransitive
 parade noun verb_participle
 helmet noun
 impose verb_participle verb_intransitive
@@ -2828,15 +2826,15 @@ ignored verb_transitive adjective
 thrilling adjective
 lastly adverb
 airy adjective
-sketches null
+sketches plural
 abyss noun
 baffled verb_participle noun
 planning verb_participle noun
-drawings null
+drawings plural
 traveled verb_participle adjective
-alan null
+alan noun
 nicely adverb
-pirates null
+pirates plural
 enforce verb_transitive verb_participle
 briskly adverb
 buttons noun
@@ -2844,7 +2842,7 @@ crushing adjective noun
 threaten verb_transitive verb_participle
 undone adjective
 frankness noun
-rogers null
+rogers noun
 villa noun
 resource noun
 confine verb_participle verb_transitive
@@ -2879,11 +2877,11 @@ yearly adjective adverb
 baron noun
 imply verb_participle
 posture noun verb_participle
-leon null
+leon noun
 beset verb_participle
 thereto adverb
 jewel noun verb_participle
-regained null
+regained verb_participle
 jumping noun
 rainy adjective
 concrete noun adjective
@@ -2892,22 +2890,22 @@ uproar noun
 cavern noun verb_transitive
 combine verb_participle noun
 menace verb_participle noun
-pilgrims null
+pilgrims plural
 silken adjective
 litter noun verb_participle
 fondly adverb
 tariff noun verb_participle
 dragon noun
-ranges null
+ranges plural verb_intransitive
 frenzy noun verb_participle
 thirsty adjective
 charter noun verb_transitive
-boasted null
+boasted verb_participle
 item noun verb_participle
 linger verb_participle
 shady adjective
 confer verb_participle verb_intransitive
-pitied null
+pitied verb_participle
 involve verb_transitive verb_participle
 wanton adjective noun
 repay verb_participle
@@ -2922,10 +2920,10 @@ mayor noun
 wrinkled adjective
 defy verb_participle
 junction noun
-glories null
+glories plural
 constrained adjective
 hardware noun
-counties null
+counties plural
 mocking adjective
 rebuke verb_transitive noun
 morbid adjective
@@ -2939,11 +2937,11 @@ biggest adjective
 nursing noun
 weighing noun
 avenge verb_participle
-ridges null
-perils null
+ridges plural
+perils plural
 larry noun
 aloof adjective adverb
-chickens null
+chickens plural
 placid adjective
 affirm verb_participle verb_intransitive
 schedule noun verb_transitive
@@ -2965,7 +2963,7 @@ rubbish noun verb_transitive
 chaos noun
 twinkling noun adjective
 muffled adjective
-accents null
+accents plural
 outbreak noun
 turner noun
 filthy adjective
@@ -2977,23 +2975,23 @@ bustle verb_participle noun
 fabric noun
 patty noun
 discreet adjective
-accessed null
+accessed verb_participle
 preface noun verb_transitive
 quiver verb_intransitive noun
-deserts null
+deserts verb_intransitive
 denounced verb_transitive
 eric noun
 phantom noun adjective
-horsemen null
+horsemen plural
 whirling noun
 instruct verb_transitive verb_participle
 dickens noun
 purest adjective
 doubly adverb
 forbear verb_participle noun
-treaties null
+treaties plural
 fearless adjective
-watson null
+watson noun
 bridegroom noun
 curate noun
 mining noun
@@ -3024,9 +3022,9 @@ tenant noun verb_transitive
 dreamy adjective
 unkind adjective
 inscribed verb_transitive adjective
-cushions null
+cushions plural
 programme noun verb_participle
-markets null
+markets plural
 humane adjective
 languid adjective
 curses interjection
@@ -3066,7 +3064,7 @@ renounce verb_transitive verb_intransitive
 lifeless adjective
 adore verb_transitive verb_participle
 orphan noun verb_transitive
-symbols null
+symbols plural
 partake verb_participle verb_transitive
 profane adjective verb_transitive
 foreseen verb_participle adjective
@@ -3085,9 +3083,9 @@ shocking adjective
 rudely adverb
 balanced verb_participle adjective
 fable noun verb_participle
-matches null
+matches plural
 index noun verb_transitive
-cigars null
+cigars plural
 liver noun
 transmit verb_participle verb_transitive
 dispatch verb_transitive noun
@@ -3105,22 +3103,22 @@ earthquake noun
 sloping verb_participle adjective
 smoothly adverb
 tension noun
-intrigues null
-comments null
+intrigues verb_intransitive
+comments verb_intransitive plural
 wedded adjective
 whiteness noun
 paved verb_transitive adjective
 scruple noun verb_participle
-paintings null
+paintings plural
 therewith adverb
-colleagues null
+colleagues plural
 shrinking noun
-tickets null
+tickets plural verb_intransitive
 omit verb_participle
 beware verb_participle
 worker noun
 incline verb_participle noun
-hardest null
+hardest adjective
 toilet noun
 buddha noun
 offense noun
@@ -3130,11 +3128,11 @@ penance noun verb_transitive
 rooted adjective
 outburst noun
 devour verb_transitive verb_participle
-brandon null
+brandon noun
 speechless adjective
 annals noun
 discord noun verb_participle
-archie null
+archie noun
 detain verb_transitive verb_participle
 soda noun
 naughty adjective noun
@@ -3147,7 +3145,7 @@ cooper noun verb_transitive
 nasty adjective
 breeches noun
 abound verb_intransitive verb_participle
-essays null
+essays plural
 plaster noun verb_participle
 chairman noun verb_participle
 dismiss verb_transitive verb_participle
@@ -3160,7 +3158,7 @@ climax noun verb_participle
 avowed adjective
 tempting adjective
 define verb_transitive verb_participle
-stretches null
+stretches plural verb_intransitive
 cupboard noun
 digest verb_participle verb_transitive
 vale noun
@@ -3181,8 +3179,8 @@ skipper noun verb_participle
 tiresome adjective
 insure verb_participle
 laboured adjective
-shepherds null
-lilies null
+shepherds plural
+lilies plural
 ballad noun
 befall verb_participle verb_intransitive
 teddy noun
@@ -3225,20 +3223,20 @@ rosa noun
 nina noun
 caprice noun
 candy noun verb_participle
-planets null
+planets plural
 sanguine adjective noun
 odour noun
 convict verb_participle verb_transitive
 package noun verb_transitive
 pirate noun verb_transitive
 salmon noun
-alma null
-hetty null
+alma noun
+hetty noun
 madly adverb
 pudding noun
-suburbs null
-dares null
-pondered null
+suburbs plural
+dares verb_intransitive
+pondered verb_participle
 raiment noun verb_participle
 foreman noun
 thirteenth adjective noun
@@ -3250,7 +3248,7 @@ subdue verb_participle
 adorn verb_transitive verb_participle
 warmer noun
 cluster noun verb_participle
-fullest null
+fullest adjective
 scornful adjective
 bailey noun
 dingy adjective
@@ -3272,10 +3270,10 @@ inflamed verb_participle adjective
 spelling noun
 respond verb_participle verb_intransitive
 fourteenth adjective noun
-singers null
+singers plural
 cloudy adjective
 fleeting adjective
-phases null
+phases plural
 latent adjective
 whiskey noun
 willow noun
@@ -3286,9 +3284,9 @@ implore verb_transitive verb_participle
 gliding verb_participle noun
 tested adjective
 racing adjective noun
-brightest null
-joel null
-extremes null
+brightest adjective
+joel noun
+extremes plural
 labored adjective
 exit noun verb_intransitive
 humming adjective verb_participle
@@ -3301,7 +3299,7 @@ trader noun
 rumour noun verb_transitive
 amply adverb
 confide verb_participle verb_intransitive
-favors null
+favors plural verb_transitive
 withstand verb_participle verb_intransitive
 robust adjective
 monthly adjective adverb
@@ -3310,24 +3308,24 @@ envoy noun
 contrive verb_transitive verb_participle
 chatter verb_participle verb_intransitive
 judas noun
-reforms null
+reforms verb_transitive plural
 clatter verb_participle verb_intransitive
 allude verb_intransitive verb_participle
 junior adjective noun
 tony adjective
-signals null
+signals plural verb_transitive
 drying adjective
 harshly adverb
 limestone noun
-pebbles null
-willie null
+pebbles plural
+willie noun
 knitting noun
 ordeal noun
 foresee verb_participle
 repast noun verb_intransitive
 abject adjective
 bridal adjective noun
-insults null
+insults verb_transitive
 twisting noun
 bully noun verb_participle
 canon noun
@@ -3342,8 +3340,8 @@ wager noun verb_participle
 pathway noun
 wistful adjective
 advent noun
-drowning null
-faintest null
+drowning verb_participle
+faintest adjective
 befell verb_participle
 crawling noun
 lumber noun verb_transitive
@@ -3359,26 +3357,25 @@ marking noun
 consume verb_transitive verb_intransitive
 resent verb_transitive verb_participle
 sterling noun adjective
-barking null
+barking verb_participle
 bower noun verb_participle
-factors null
+factors plural
 midday noun
 aright adverb
-nigger noun
 lily noun
 cursing verb_participle adjective
-marco null
+marco noun
 folding noun
-discerned null
+discerned verb_participle
 helpful adjective
 persist verb_intransitive verb_participle
 frigate noun
 spotted adjective
-atoms null
+atoms plural
 outlet noun
-withheld null
-fairies null
-taller null
+withheld verb_transitive
+fairies plural
+taller adjective
 arctic adjective noun
 colleague noun
 butcher noun verb_transitive
@@ -3389,7 +3386,7 @@ gallows noun
 hindu noun
 omen noun verb_transitive
 ensure verb_transitive noun
-denotes null
+denotes verb_transitive
 sentenced verb_participle
 unfair adjective
 bucket noun verb_transitive
@@ -3436,20 +3433,20 @@ bolted adjective
 abel noun
 meddle verb_intransitive verb_participle
 axis noun
-kinder null
-closes null
+kinder adjective
+closes verb_transitive
 giddy adjective verb_transitive
 crouching adjective
 buddhist noun
 collapse verb_intransitive noun
-varies null
+varies verb_intransitive
 mainland noun
 repute verb_transitive noun
 cushion noun verb_transitive
 confound verb_transitive verb_participle
-layers null
+layers plural
 glimmer verb_intransitive noun
-equals null
+equals verb_intransitive
 redress verb_transitive noun
 crafty adjective
 enlarge verb_participle verb_transitive
@@ -3474,7 +3471,7 @@ curling noun adjective
 abreast adverb adjective
 sample noun verb_transitive
 matron noun
-claiming null
+claiming verb_participle
 plural adjective noun
 spider noun
 jelly noun verb_participle
@@ -3482,13 +3479,13 @@ parchment noun
 playful adjective
 barber noun verb_transitive
 profile noun verb_transitive
-provides null
+provides verb_transitive
 noting verb_participle
-heightened null
+heightened adjective
 finance noun verb_transitive
 averse adjective
 azure noun adjective
-campaigns null
+campaigns plural verb_intransitive
 lessen verb_participle verb_transitive
 acquaint verb_transitive verb_participle
 tribune noun
@@ -3504,8 +3501,8 @@ banish verb_transitive verb_participle
 prosper verb_participle
 friar noun
 nightly adjective adverb
-monkeys null
-enjoys null
+monkeys plural
+enjoys verb_transitive
 riddle noun verb_participle
 cleaning noun
 exclaim verb_participle
@@ -3517,15 +3514,15 @@ fasting noun
 trailer noun
 avert verb_transitive verb_participle
 unchanged adjective
-mirrors null
+mirrors plural verb_transitive
 phoebe noun
 conform verb_intransitive verb_transitive
-railways null
+railways plural
 paddle noun verb_participle
 innate adjective
 volley noun verb_participle
-agrees null
-simpler null
+agrees verb_intransitive
+simpler adjective
 padre noun
 rustle verb_participle noun
 lava noun
@@ -3535,7 +3532,7 @@ downright adjective adverb
 foresight noun
 pallor noun
 salad noun
-greetings null
+greetings plural
 chestnut noun adjective
 vicar noun
 noel noun
@@ -3574,9 +3571,9 @@ succour noun verb_transitive
 repress verb_transitive verb_participle
 valid adjective
 witchcraft noun
-paula null
+paula noun
 muzzle noun verb_transitive
-clusters null
+clusters plural verb_intransitive
 guinea noun
 tarry verb_participle adjective
 glossy adjective noun
@@ -3591,10 +3588,10 @@ unlocked adjective
 foretold verb_participle adjective
 artful adjective
 downcast adjective noun
-missions null
+missions plural
 pregnant adjective
 reddish adjective
-peeping null
+peeping verb_participle
 aghast adjective
 turmoil noun verb_participle
 forfeit noun verb_transitive
@@ -3609,7 +3606,7 @@ hairy adjective
 northwest noun adjective
 laurel noun verb_participle
 wary adjective
-converts null
+converts plural verb_intransitive
 weakly adjective adverb
 tremor noun verb_intransitive
 curly adjective
@@ -3628,7 +3625,7 @@ target noun verb_transitive
 dictate verb_participle verb_transitive
 empress noun
 manure noun verb_transitive
-nigel null
+nigel noun
 sidewalk noun
 grievance noun
 axes noun
@@ -3640,21 +3637,21 @@ rumor verb_transitive noun
 girlish adjective
 shortest adjective
 retort verb_participle noun
-rocking null
+rocking verb_participle
 emerge verb_intransitive verb_participle
 lonesome adjective noun
 unarmed adjective
 victuals noun
 quickness noun
-parma null
+parma noun
 diseased adjective
 irons noun
 canyon noun
 vapour noun verb_participle
-lances null
+lances plural
 godly adjective
 therefrom adverb
-davy null
+davy noun
 framework noun
 squirrel noun
 blacksmith noun
@@ -3663,7 +3660,7 @@ outright adjective adverb
 cement noun verb_transitive
 fraction noun verb_transitive
 purer adjective
-presses null
+presses verb_transitive
 dissolve verb_participle verb_transitive
 bases noun
 maxwell noun
@@ -3673,7 +3670,7 @@ weaving noun
 earnings noun
 indoors adverb
 picnic noun verb_participle
-misled null
+misled verb_intransitive
 pompous adjective
 brian noun
 respite noun verb_transitive
@@ -3686,8 +3683,8 @@ needy adjective
 beaver noun verb_intransitive
 lookout noun verb_participle
 onion noun
-couples null
-speakers null
+couples plural
+speakers plural
 woollen adjective noun
 lightness noun
 bitten verb_participle adjective
@@ -3708,7 +3705,7 @@ untrue adjective
 grating noun adjective
 wintry adjective
 stalwart adjective noun
-stamping null
+stamping verb_participle
 apiece adverb
 wilful adjective
 timely adjective adverb
