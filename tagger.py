@@ -1,5 +1,6 @@
 import json
 import sys
+import subprocess
 
 input_filename = sys.argv[1]
 output_filename = sys.argv[2]
@@ -9,43 +10,58 @@ if input_filename == output_filename:
     print("input filename cannot be the same as output filename")
     quit()
 
-
-part_of_speech_mapping = {
+parts_of_speech = {
     "N": "noun",
-    "P": "noun",
-    "h": "noun",
-    "V": "verb",
-    "t": "verb",
-    "i": "verb",
+    "P": "plural",
+    "h": "noun_phrase",
+    "V": "verb_participle",
+    "t": "verb_transitive",
+    "i": "verb_intransitive",
     "A": "adjective",
     "v": "adverb",
     "C": "conjunction",
     "P": "preposition",
     "!": "interjection",
-    "r": "noun",
-    "D": "article",
-    "I": "article",
-    "o": "noun",
+    "r": "pronoun",
+    "D": "definite_article",
+    "I": "indefinite_article",
+    "o": "nominative",
 }
 
 input_file = open(input_filename, "r")
 output_file = open(output_filename, "w")
 
+lines = input_file.readlines()
+
 index = 0
+words = []
+for line in lines:
+    words.append(line.replace("\n", ""))
+    index += 1
+    if index % 10 == 0 or index == len(lines):
+        body = {"msg": " ".join(words)}
+        words = []
 
-while input_file.readable:
-    dictionary = {"msg": ""}
-    for line in input_file:
-        dictionary["msg"] += line.replace("\n", " ")
-        index += 1
-        if index % 10 == 0:
-            break
+        response = subprocess.run(["curl", "-H", "Content-Type: application/json", "--request", "POST", "--data",
+                json.dumps(body), "https://victorribeiro.com/pos/word.php"], universal_newlines=True, stdout=subprocess.PIPE)
 
-    json = dictionary["msg"]
-    dictionary["msg"] = ""
+        items = json.loads(response.stdout)
 
+        for item in items:
+            info = [ item["word"] ]
+            if item["pos"] == None:
+                info.append("null")
+            else:
+                print(item)
+                for character in item["pos"]:
+                    if character in parts_of_speech.keys():
+                        info.append(parts_of_speech[character])
 
-print("msg: " + dictionary["msg"])
+            if len(info) == 1:
+                info.append("null")
+
+            output_file.write(" ".join(info) + "\n")
+
 
 input_file.close()
 output_file.close()

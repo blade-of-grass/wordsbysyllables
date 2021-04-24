@@ -1,9 +1,9 @@
 individuality noun
 superficiality noun
 infinitesimally adverb
-indestructability adjective
+indestructability null
 sentimentalization noun
-proletarianism noun
+proletarianism null
 irrefutability noun
 disproportionality noun
 artificiality noun
