@@ -1,13 +1,13 @@
-individuality noun 
-superficiality noun
-infinitesimally adverb
-indestructability noun
-sentimentalization noun
-proletarianism noun
-irrefutability noun
-disproportionality noun
-artificiality noun
-oversimplification noun
-industrialization noun
-autobiographical adjective
-meteorological adjective
+individuality
+superficiality
+infinitesimally
+indestructability
+sentimentalization
+proletarianism
+irrefutability
+disproportionality
+artificiality
+oversimplification
+industrialization
+autobiographical
+meteorological
