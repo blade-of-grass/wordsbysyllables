@@ -10,7 +10,7 @@ he pronoun noun
 it pronoun noun
 ore noun
 inn noun
-yer null
+yer adjective
 with preposition
 is verb_participle
 for preposition conjunction
@@ -158,8 +158,8 @@ few definite_article noun
 thing noun
 whom pronoun
 far adverb adjective
-seemed null
-looked null
+seemed verb_participle
+looked verb_participle
 called adjective
 whole adjective adverb
 de noun preposition
@@ -175,7 +175,7 @@ days adverb noun
 told verb_participle adjective
 let verb_participle noun
 lord noun verb_transitive
-asked null
+asked verb_participle
 seen verb_participle adjective
 home noun adjective
 knew verb_participle
@@ -262,7 +262,7 @@ fire noun verb_participle
 cried verb_participle
 speak verb_participle verb_intransitive
 hour noun
-friends null
+friends plural
 held verb_participle adjective
 free adjective adverb
 war adverb verb_participle
@@ -302,7 +302,7 @@ ask verb_participle verb_transitive
 arms noun
 turn verb_participle verb_transitive
 sense noun verb_transitive
-seems null
+seems verb_transitive
 black adjective noun
 bring verb_participle
 close verb_participle verb_transitive
@@ -326,15 +326,14 @@ spoke verb_participle noun
 ought verb_participle noun
 line noun verb_transitive
 eye noun verb_participle
-ety null
 sun noun verb_participle
-reached null
+reached verb_participle
 past adjective noun
 hours noun
 strange adjective adverb
 deep adjective noun
 change verb_participle verb_transitive
-miles null
+miles plural
 act noun verb_intransitive
 meet verb_participle verb_transitive
 paid verb_participle adjective
@@ -363,6 +362,7 @@ north noun adjective
 fall verb_participle verb_transitive
 fair adjective adverb
 hair noun
+null noun
 laid verb_participle adjective
 pass adjective verb_participle
 led verb_participle noun
@@ -374,7 +374,7 @@ red noun adjective
 hath verb_participle
 note noun verb_transitive
 gold noun adjective
-makes null
+makes verb_transitive
 play verb_participle verb_transitive
 tried verb_participle adjective
 front noun adjective
@@ -390,40 +390,40 @@ bear verb_participle verb_intransitive
 ran verb_participle
 faith noun interjection
 charge verb_participle verb_transitive
-lips null
+lips plural
 arm noun verb_transitive
 send verb_participle verb_transitive
 foot noun verb_participle
 wild adjective adverb
 die verb_participle verb_transitive
 save verb_transitive verb_intransitive
-trees null
+trees plural
 green noun adjective
 smile noun verb_intransitive
-books null
+books plural
 wrong adjective noun
 sleep noun verb_participle
 drew verb_participle
-walked null
+walked verb_participle
 chief noun adjective
 chance noun verb_transitive
 deal verb_participle verb_transitive
 loved verb_participle adjective
-knows null
+knows verb_intransitive
 try verb_transitive verb_intransitive
 sweet adjective adverb
 plain adjective noun
 wrote verb_participle
 mouth noun verb_participle
 rich adjective noun
-thoughts null
-months null
+thoughts plural
+months plural
 joy noun verb_intransitive
-states null
+states plural verb_intransitive
 ship noun verb_participle
 filled adjective
 write verb_participle verb_transitive
-boys null
+boys plural
 parts noun
 please verb_participle adverb
 march verb_intransitive verb_transitive
@@ -440,7 +440,7 @@ reach verb_transitive noun
 moved verb_participle adjective
 walk verb_intransitive noun
 stopped adjective
-laughed null
+laughed verb_participle
 week noun adverb
 hall noun
 born verb_participle adjective
@@ -471,9 +471,9 @@ due noun adverb
 tom noun
 date noun verb_transitive
 lives noun
-lines null
+lines plural verb_transitive
 field noun verb_transitive
-wished null
+wished verb_participle
 wait verb_participle verb_intransitive
 piece noun verb_transitive
 ex preposition noun
@@ -481,7 +481,7 @@ formed adjective
 hill noun verb_transitive
 cry verb_participle verb_intransitive
 cost noun verb_participle
-girls null
+girls plural
 broke verb_participle adjective
 sit verb_participle verb_transitive
 news noun
@@ -499,17 +499,17 @@ eat verb_participle verb_transitive
 floor noun verb_participle
 ill adjective noun
 ways noun adverb
-walls null
+walls plural
 watch verb_participle verb_intransitive
 pleased adjective
 leaves noun
 hot adjective adverb
-killed null
+killed verb_participle
 fast adjective adverb
 brown noun adjective
 pain noun verb_transitive
 spring verb_participle verb_transitive
-takes null
+takes verb_intransitive
 drawn adjective
 steps noun
 soft adjective adverb
@@ -518,7 +518,7 @@ trust noun verb_transitive
 laugh verb_intransitive verb_transitive
 eight noun definite_article
 closed adjective
-gives null
+gives verb_intransitive
 dress verb_participle verb_transitive
 sake noun
 breath noun
@@ -534,7 +534,7 @@ sky noun verb_participle
 touch interjection noun
 shore noun verb_transitive
 named noun verb_participle
-looks null
+looks verb_intransitive
 plan noun verb_participle
 spent verb_participle adjective
 pale adjective verb_participle
@@ -553,11 +553,11 @@ vain adjective noun
 safe adjective adverb
 loss noun
 class noun verb_participle
-forms null
+forms plural verb_transitive
 warm adjective verb_participle
 drink verb_participle verb_transitive
-ones null
-ears null
+ones plural
+ears plural
 start verb_participle verb_intransitive
 smiled verb_participle
 spite noun verb_transitive
@@ -600,7 +600,7 @@ rate noun verb_participle
 clothes noun
 sign noun verb_participle
 judge noun verb_participle
-watched null
+watched verb_participle
 marked adjective
 bill noun verb_transitive
 vast adjective noun
@@ -610,24 +610,24 @@ yes adverb noun
 sought verb_participle adjective
 neck noun verb_intransitive
 hearts noun
-sides null
+sides plural
 dry adjective verb_participle
 serve verb_participle verb_transitive
 pure adjective
 lose verb_participle verb_intransitive
 thrown verb_participle adjective
 page noun verb_transitive
-weeks null
+weeks plural
 search verb_participle verb_transitive
 sad adjective verb_participle
 sin noun verb_intransitive
-lies null
+lies plural verb_transitive
 proud adjective adverb
 price noun verb_transitive
-ships null
+ships plural
 sick adjective noun
 shut verb_participle verb_transitive
-talked null
+talked verb_participle
 bank noun verb_transitive
 fate noun verb_transitive
 dropped verb_participle adjective
@@ -640,12 +640,12 @@ aid verb_participle verb_transitive
 choose verb_participle verb_transitive
 rights noun adjective
 tax noun verb_transitive
-sons null
+sons plural
 cross noun verb_transitive
 thick adjective adverb
-points null
+points plural verb_intransitive
 woods noun
-facts null
+facts plural
 dare verb_transitive noun
 grow verb_participle verb_intransitive
 hung verb_participle adjective
@@ -653,11 +653,11 @@ rain noun verb_intransitive
 false adjective adverb
 tall adjective
 gate noun verb_transitive
-streets null
+streets plural
 blow verb_participle verb_transitive
 coast noun verb_participle
 file noun verb_participle
-birds null
+birds plural
 song noun
 wealth noun
 failed adjective
@@ -697,13 +697,13 @@ bent adjective noun
 seized verb_participle adjective
 guard verb_participle verb_transitive
 box noun verb_transitive
-gods null
+gods plural
 moon noun verb_participle
 slight adjective verb_transitive
 style noun verb_participle
 saved verb_participle adjective
 crossed adjective
-pounds null
+pounds plural
 paul noun
 worked adjective
 grown adjective
@@ -714,7 +714,7 @@ list noun verb_transitive
 calm adjective noun
 nice adjective noun
 joined adjective
-kings null
+kings plural
 twice adverb
 throw verb_participle noun
 ceased verb_participle
@@ -724,7 +724,7 @@ fault noun verb_participle
 beat verb_participle verb_transitive
 fool noun verb_transitive
 hurt verb_participle verb_intransitive
-wants null
+wants plural verb_transitive
 height noun
 size noun verb_participle
 edge noun verb_transitive
@@ -732,21 +732,21 @@ task noun verb_transitive
 nine noun definite_article
 burst verb_participle verb_intransitive
 dressed adjective
-hopes null
+hopes plural verb_intransitive
 noise noun verb_transitive
 rode verb_participle noun
-tells null
-minds null
+tells verb_intransitive plural
+minds plural
 flesh noun verb_transitive
 grand adjective noun
-legs null
+legs plural
 post noun verb_transitive
 rank noun verb_transitive
 storm noun verb_participle
 wore verb_participle
 loud adjective adverb
 thank verb_transitive verb_participle
-rules null
+rules plural
 bird noun verb_participle
 coat noun verb_transitive
 shape noun verb_participle
@@ -767,22 +767,22 @@ won verb_participle noun
 fruit noun verb_participle
 mad adjective verb_participle
 tea noun
-rocks null
-slaves null
+rocks plural
+slaves plural verb_intransitive
 slow adjective adverb
 grief noun
 prayer noun
-stars null
+stars plural
 buy verb_participle verb_intransitive
 ride verb_participle verb_transitive
-fields null
+fields plural
 drove verb_participle noun
 sum noun verb_participle
-stones null
-fees null
+stones plural
+fees plural
 catch verb_participle verb_transitive
-knees null
-gained null
+knees plural
+gained verb_participle
 slave noun verb_intransitive
 loose adjective noun
 text noun
@@ -797,8 +797,8 @@ pressed adjective
 join verb_participle verb_intransitive
 crime noun
 dust noun verb_transitive
-lands null
-doors null
+lands plural verb_intransitive
+doors plural
 sing verb_participle verb_intransitive
 nose noun verb_transitive
 rooms noun
@@ -810,14 +810,14 @@ needs adverb
 wear verb_participle verb_transitive
 blind adjective adverb
 rough adjective noun
-shows null
+shows plural verb_intransitive
 fly verb_participle verb_intransitive
 praise noun verb_transitive
 smith noun
 gain verb_transitive verb_intransitive
-notes null
+notes plural verb_intransitive
 bought verb_participle adjective
-souls null
+souls plural
 based verb_participle adjective
 car noun
 dick noun
@@ -826,7 +826,7 @@ fought verb_participle
 hate verb_participle verb_intransitive
 lake noun
 faint adjective verb_intransitive
-thinks null
+thinks verb_intransitive
 drop noun verb_participle
 brief adjective noun
 goods noun
@@ -839,23 +839,23 @@ throne noun verb_participle
 ease noun verb_participle
 mile noun adverb
 dull adjective verb_participle
-clouds null
+clouds plural
 term noun verb_transitive
 cup noun verb_participle
 strike verb_participle verb_transitive
 pulled adjective
 flight noun verb_transitive
-yards null
+yards plural
 whilst conjunction
 bow verb_participle verb_intransitive
 suit noun verb_participle
-plans null
+plans plural verb_intransitive
 lest conjunction adverb
 paused verb_participle
 meat noun
 milk noun verb_participle
-dogs null
-plants null
+dogs plural
+plants plural verb_transitive
 rare adjective
 raise verb_participle noun
 obs noun
@@ -863,33 +863,33 @@ cool adjective adverb
 bridge noun verb_participle
 stock noun adjective
 type noun verb_participle
-signs null
+signs plural
 pope noun
 queen noun verb_participle
 teach verb_participle verb_transitive
 count verb_participle verb_transitive
 dance verb_intransitive verb_transitive
 fled verb_participle
-kissed null
+kissed verb_participle
 guns noun verb_participle
 fill verb_participle noun
 guide verb_participle verb_transitive
 lad noun
 harm noun verb_transitive
-views null
-ends null
+views plural verb_intransitive
+ends plural verb_intransitive
 shop noun verb_participle
 stairs noun
 gay adjective noun
 beg verb_participle verb_intransitive
-kinds null
+kinds plural
 fat noun adjective
 sand noun verb_transitive
 worn verb_participle adjective
 flat adjective adverb
 gift noun verb_transitive
 skill noun
-calls null
+calls plural
 en noun
 wound noun verb_participle
 whence adverb pronoun
@@ -899,12 +899,12 @@ helped verb_participle
 sell verb_participle verb_transitive
 self noun pronoun
 throat noun
-dreams null
+dreams plural
 speed noun verb_participle
 growth noun
 slept verb_participle
 thine definite_article
-sounds null
+sounds plural
 swift adjective adverb
 wings noun
 stepped verb_participle
@@ -913,7 +913,7 @@ win verb_participle noun
 maid noun
 site noun verb_transitive
 sail noun verb_participle
-feared null
+feared verb_participle
 store verb_transitive verb_intransitive
 shalt verb_participle
 cook noun verb_participle
@@ -939,15 +939,15 @@ waste verb_transitive noun
 spend verb_participle verb_transitive
 source noun
 deck noun verb_transitive
-sees null
+sees verb_transitive
 aunt noun
 reign noun verb_intransitive
 hers pronoun
 doth verb_participle
 thanks interjection
-banks null
+banks plural
 cap noun verb_participle
-waves null
+waves plural verb_intransitive
 glanced verb_participle
 pushed adjective
 press verb_participle verb_transitive
@@ -958,26 +958,26 @@ stretched adjective
 gaze verb_intransitive noun
 meal noun
 blame noun verb_transitive
-guests null
+guests plural
 job noun verb_participle
-loves null
+loves plural
 risk noun verb_transitive
 ad noun
 wit noun verb_participle
 fame noun verb_transitive
 lack noun verb_participle
 dawn noun verb_intransitive
-gets null
-lights null
+gets verb_transitive
+lights plural
 sheep noun
 spare verb_transitive verb_intransitive
 farm noun verb_transitive
 corn noun verb_transitive
 jane noun
 key noun verb_transitive
-towns null
+towns plural
 flame noun verb_participle
-priests null
+priests plural
 cloth noun
 gazed verb_participle
 fourth adjective noun
@@ -987,7 +987,7 @@ ascii noun
 begged verb_participle
 hole noun verb_participle
 borne verb_participle
-files null
+files plural
 sigh verb_intransitive verb_transitive
 thrust verb_participle noun
 frame noun verb_participle
@@ -999,11 +999,11 @@ rolled adjective
 email noun
 flung verb_participle
 verse noun verb_participle
-turns null
+turns plural verb_intransitive
 branch noun verb_intransitive
 rear noun verb_transitive
 stared verb_participle
-boats null
+boats plural
 keen adjective verb_participle
 bones noun
 luck noun verb_intransitive
@@ -1023,7 +1023,7 @@ noon noun
 cease verb_participle noun
 tent noun verb_intransitive
 beast noun
-gates null
+gates plural
 stern adjective noun
 knife noun verb_transitive
 dread verb_transitive noun
@@ -1031,54 +1031,54 @@ jim noun
 silk noun verb_intransitive
 links noun
 cent noun
-finds null
+finds verb_intransitive
 bade verb_participle noun
-lords null
+lords plural verb_transitive
 hell noun interjection
 grant verb_transitive noun
-tribes null
+tribes plural
 hit adjective verb_participle
 mixed adjective
-prayers null
+prayers plural
 treat noun verb_transitive
 flew verb_participle noun
-speaks null
-slipped null
+speaks verb_transitive
+slipped verb_participle
 ours pronoun
 yield verb_participle verb_transitive
-schools null
+schools plural verb_transitive
 rush verb_participle verb_intransitive
 falls noun
 stayed verb_participle
-sins null
-anne null
+sins verb_intransitive plural
+anne noun
 pen noun verb_participle
 tide verb_intransitive noun
-vol null
+vol noun
 leaned verb_participle
 tail noun verb_participle
-fears null
+fears plural verb_transitive
 nights adverb
 tied adjective
 cat noun verb_participle
 port noun verb_participle
 male adjective noun
 mode noun
-poured null
+poured verb_participle
 sank verb_participle
-brings null
+brings verb_transitive
 trace noun verb_transitive
 chose verb_participle noun
 tribe noun
 costs noun
 sang verb_participle noun
 sam noun
-sorts null
+sorts verb_transitive plural
 rude adjective
-winds null
-scenes null
+winds plural verb_transitive
+scenes plural
 shake verb_participle verb_transitive
-claims null
+claims plural verb_transitive
 lamp noun
 sex noun verb_transitive
 trail verb_participle verb_intransitive
@@ -1086,7 +1086,7 @@ shone verb_participle
 nurse noun verb_participle
 match noun verb_participle
 wrath noun adjective
-gifts null
+gifts plural
 chain noun verb_participle
 debt noun
 shoes noun
@@ -1097,7 +1097,7 @@ vague adjective
 odd adjective noun
 wives noun
 cared verb_participle
-jews null
+jews plural
 joe noun
 dutch noun adjective
 ate verb_participle noun
@@ -1115,7 +1115,7 @@ bless verb_participle
 stir verb_participle verb_intransitive
 fix verb_participle verb_intransitive
 deed noun verb_transitive
-sighed null
+sighed verb_participle
 vote noun verb_participle
 leg noun verb_participle
 bid verb_participle noun
@@ -1127,16 +1127,16 @@ strain verb_participle verb_intransitive
 drank verb_participle
 aim verb_participle verb_transitive
 bag noun verb_participle
-beasts null
+beasts plural
 track noun verb_participle
 rid verb_participle adjective
-holds null
+holds plural verb_intransitive
 swear verb_participle verb_intransitive
 fun noun verb_participle
 apt adjective
 queer adjective noun
 seed noun verb_participle
-runs null
+runs verb_transitive
 stuff verb_participle verb_intransitive
 sole adjective noun
 roads noun
@@ -1144,13 +1144,13 @@ plate noun verb_transitive
 pains noun
 dwell verb_participle noun
 grounds noun
-taxes null
-tones null
+taxes plural verb_intransitive
+tones plural verb_transitive
 wave verb_participle verb_intransitive
 folk noun adjective
-marched null
-writes null
-sailed null
+marched verb_participle
+writes verb_transitive
+sailed verb_participle verb_intransitive
 pull verb_participle verb_intransitive
 hid verb_participle
 rope noun verb_transitive
@@ -1161,10 +1161,10 @@ burn verb_participle verb_transitive
 card noun verb_transitive
 flow verb_participle verb_transitive
 scale noun verb_transitive
-marks null
+marks plural
 ben noun preposition
 wrought verb_participle adjective
-songs null
+songs plural
 torn verb_participle adjective
 hunt verb_participle verb_intransitive
 web noun verb_transitive
@@ -1174,14 +1174,14 @@ clerk noun verb_intransitive
 drunk adjective noun
 pour verb_participle verb_transitive
 lift verb_participle noun
-limbs null
-plays null
+limbs plural
+plays plural verb_transitive
 dragged verb_participle
 flag noun verb_participle
 boots noun
-bears null
+bears plural verb_transitive
 signed adjective
-walks null
+walks plural verb_intransitive
 feed verb_participle verb_intransitive
 roll verb_participle verb_transitive
 wilt verb_participle noun
@@ -1190,18 +1190,18 @@ lee noun adjective
 owe verb_participle verb_intransitive
 trip noun verb_intransitive
 shoot verb_participle verb_transitive
-owns null
+owns verb_transitive
 beard noun verb_transitive
 stirred verb_participle adjective
 tear noun verb_participle
 dan noun
 bob verb_participle verb_intransitive
-depths null
+depths plural
 breeze noun verb_intransitive
 jean noun
 smell verb_participle verb_intransitive
 locked adjective
-courts null
+courts plural
 pick verb_participle noun
 desk noun
 gross adjective noun
@@ -1209,23 +1209,23 @@ lane noun adjective
 root noun verb_intransitive
 mud noun verb_participle
 cleared adjective
-feels null
-fruits null
+feels verb_intransitive
+fruits plural
 bride noun
 rang verb_participle
-ranks null
+ranks plural verb_transitive
 grasp verb_participle verb_transitive
 veil noun verb_transitive
 gloom noun verb_intransitive
 prize noun verb_transitive
-greeks null
+greeks plural
 foe noun
 shared adjective
 id noun
 coach noun verb_participle
-knocked null
-keeps null
-leads null
+knocked verb_participle
+keeps verb_intransitive
+leads verb_intransitive
 sale noun
 wheel noun verb_participle
 burnt verb_participle adjective
@@ -1233,14 +1233,14 @@ flash noun verb_transitive
 fed verb_participle noun
 curse noun verb_participle
 zeal noun
-groups null
+groups plural verb_intransitive
 fort noun verb_participle
 club noun verb_participle
 cure verb_transitive verb_intransitive
 stout adjective noun
 missed adjective
 flood noun verb_participle
-seas null
+seas plural
 grain noun verb_participle
 steep adjective verb_participle
 route noun verb_transitive
@@ -1250,32 +1250,32 @@ crept verb_participle
 greece noun
 knee noun verb_participle
 scorn noun verb_participle
-grows null
+grows verb_transitive
 clock noun verb_transitive
-roots null
-jumped null
+roots plural verb_transitive
+jumped verb_participle
 sore adjective noun
 slip verb_participle verb_intransitive
-fires null
+fires plural verb_transitive
 wept verb_participle
 stroke noun verb_transitive
 cave noun verb_transitive
-wars null
+wars plural verb_intransitive
 stiff adjective noun
 score noun verb_transitive
 ruth noun
-blows null
-plains null
-flashed null
+blows verb_intransitive
+plains plural
+flashed verb_participle
 rent noun verb_transitive
 prey noun verb_intransitive
 owed verb_participle adjective
 sheet noun verb_transitive
 gas noun verb_participle
-claimed null
+claimed verb_participle
 glow noun verb_intransitive
 leaf noun verb_participle
-jones null
+jones noun
 pound verb_participle verb_transitive
 pierre noun
 sunk verb_participle adjective
@@ -1286,7 +1286,7 @@ hut noun verb_participle
 seats noun
 bark noun verb_intransitive
 wake noun verb_participle
-prayed null
+prayed verb_participle
 jest noun verb_participle
 washed adjective
 nerves noun
@@ -1302,21 +1302,21 @@ fetch verb_participle noun
 tomb noun verb_transitive
 coarse adjective
 heap noun adverb
-homes null
+homes plural
 hint noun verb_participle
-knights null
+knights plural
 dreamed verb_participle adjective
 craft noun verb_transitive
 pink noun adjective
-heels null
-streams null
-flames null
+heels plural
+streams plural verb_intransitive
+flames plural
 sport noun verb_transitive
-beds null
+beds plural
 shout noun verb_participle
 bath noun verb_participle
 chap verb_participle noun
-roused null
+roused verb_participle
 climbed verb_participle
 mail noun verb_transitive
 wrapped verb_participle adjective
@@ -1327,22 +1327,22 @@ lit verb_participle noun
 quit verb_participle verb_transitive
 plot noun verb_participle
 dish noun verb_transitive
-cares null
+cares plural verb_intransitive
 straw noun adjective
 net noun verb_participle
-wounds null
+wounds plural verb_transitive
 warmth noun
-rays null
-shores null
+rays plural
+shores plural
 flushed adjective
 wont noun verb_participle
 steam noun verb_participle
-ned null
+ned noun
 trained adjective
-warned null
+warned verb_participle
 shield noun verb_transitive
-chairs null
-searched null
+chairs plural
+searched verb_participle
 mate noun verb_participle
 ghost noun verb_participle
 blew verb_participle
@@ -1350,10 +1350,10 @@ wash verb_participle verb_transitive
 clay noun verb_transitive
 trunk noun
 dried verb_participle adjective
-chiefs null
+chiefs plural
 coal noun verb_participle
 vice noun adjective
-deemed null
+deemed verb_participle
 pile noun verb_participle
 spell verb_participle verb_transitive
 bone noun verb_participle
@@ -1364,29 +1364,29 @@ sink verb_participle noun
 ward noun verb_transitive
 cheer verb_participle noun
 siege noun verb_transitive
-sets null
+sets plural verb_transitive
 load noun verb_participle
 brass noun
 fifth adjective noun
 faced verb_participle adjective
 cheap adjective noun
-saints null
+saints plural
 owned adjective
 seize verb_participle verb_intransitive
-springs null
+springs plural
 fence noun verb_transitive
-leagues null
+leagues plural
 glimpse noun verb_participle
-doubts null
+doubts plural
 fro adverb
 string noun verb_participle
 strict adjective
-likes null
+likes plural verb_transitive
 corps noun
 judged verb_participle
 wheels noun
 pack noun verb_transitive
-drops null
+drops plural verb_transitive
 deer noun
 bush noun adjective
 plunged verb_participle
@@ -1395,24 +1395,23 @@ spake verb_participle
 jan noun
 weep verb_participle verb_transitive
 bench noun verb_transitive
-ralph null
+ralph noun
 heir noun
 oak noun adjective
-faults null
-charms null
+faults plural
+charms plural
 purse noun verb_transitive
 chase verb_participle verb_transitive
 gown noun verb_transitive
 lock noun verb_participle
 foul adjective noun
-types null
+types plural
 breathed adjective
-bells null
+bells plural
 shine verb_participle verb_intransitive
 dashed adjective adverb
-dates null
+dates plural verb_transitive
 theirs pronoun
-adv null
 clasped noun verb_participle
 spared verb_participle
 crushed adjective
@@ -1420,7 +1419,7 @@ waved adjective verb_participle
 slope verb_participle verb_intransitive
 learnt verb_participle
 stores noun
-guessed null
+guessed verb_participle
 heed noun verb_participle
 woe noun interjection
 den noun verb_participle
@@ -1432,7 +1431,7 @@ steal verb_participle verb_transitive
 lip noun verb_participle
 dost verb_participle
 wheat noun
-smiles null
+smiles plural
 park noun verb_participle
 na noun
 stretch verb_participle verb_transitive
@@ -1442,25 +1441,25 @@ tie verb_participle verb_transitive
 cell noun
 void adjective noun
 egg noun verb_transitive
-crimes null
+crimes plural
 breathe verb_participle verb_intransitive
-sits null
-thanked null
-seeds null
-foes null
+sits verb_transitive
+thanked verb_participle
+seeds plural
+foes plural
 longed verb_participle
 lend verb_participle verb_intransitive
 lent verb_participle noun
 eh interjection
-veins null
+veins plural
 seal noun verb_transitive
 mount verb_participle verb_intransitive
 harsh adjective
-kate null
+kate noun
 lunch noun verb_intransitive
 pine noun verb_intransitive
-shells null
-flies null
+shells plural
+flies plural verb_intransitive
 push verb_participle verb_transitive
 tight adjective adverb
 sue verb_participle
@@ -1473,7 +1472,7 @@ blank adjective noun
 del noun
 danced verb_participle
 dealt verb_participle
-cents null
+cents plural
 whip verb_participle verb_transitive
 checked adjective
 shirt noun verb_participle
@@ -1481,17 +1480,17 @@ sweep verb_participle noun
 sketch noun verb_participle
 thief noun
 ut noun
-guards null
+guards plural verb_transitive
 ha interjection noun
 mob noun verb_participle
 thirst noun verb_intransitive
-asks null
-viewed null
+asks verb_intransitive
+viewed verb_participle
 gleam noun verb_intransitive
 palm noun verb_transitive
 quoth verb_participle
 fur noun verb_participle
-holes null
+holes plural
 spear noun verb_participle
 clung verb_participle
 neat adjective noun
@@ -1499,12 +1498,12 @@ lap noun verb_participle
 damp adjective noun
 ridge noun verb_participle
 spoil verb_participle verb_transitive
-swords null
+swords plural
 chains noun
 tin noun adjective
 couch noun verb_transitive
-bills null
-sails null
+bills plural
+sails plural
 dined verb_participle
 cow noun verb_transitive
 mill noun verb_participle
@@ -1513,22 +1512,22 @@ porch noun
 ford noun verb_transitive
 clothed verb_transitive adjective
 jew noun
-bands null
+bands plural
 nigh adjective adverb
 prose noun verb_participle
-codes null
+codes plural
 saint noun verb_transitive
 awe noun verb_transitive
 strife noun
 beer noun
 wretch noun
 fain adverb adjective
-brains null
+brains plural
 flock noun verb_intransitive
 niece noun
-rings null
+rings plural
 smart adjective verb_participle
-boxes null
+boxes plural
 aught pronoun adverb
 creek noun
 lo interjection
@@ -1538,48 +1537,48 @@ jump verb_intransitive verb_transitive
 pitch verb_participle verb_transitive
 cliff noun
 crowned adjective
-sites null
+sites plural
 dies noun verb_participle
 pot noun verb_participle
 rice noun verb_transitive
 planned verb_participle adjective
 guy noun verb_transitive
 hired verb_participle adjective
-fools null
+fools plural
 leap verb_participle verb_intransitive
-games null
+games plural
 bet noun verb_participle
 bull noun adjective
 raw adjective noun
 log noun verb_participle
-skies null
+skies plural
 scotch verb_transitive noun
 robbed verb_participle
 cart noun verb_participle
 robe noun verb_participle
-tents null
+tents plural
 herd noun verb_participle
 pan adjective noun
 blown verb_participle adjective
-paths null
-backs null
+paths plural
+backs plural verb_transitive
 heights noun
-gasped null
+gasped verb_participle
 breadth noun
 tune noun verb_participle
 traced verb_participle adjective
 pseud noun adjective
 squire noun verb_transitive
 bars noun
-tossed null
+tossed verb_participle
 block noun verb_participle
 lots adverb
 bloom noun verb_intransitive
 brute noun adjective
 fist noun verb_transitive
 dense adjective
-adds null
-rows null
+adds verb_intransitive
+rows plural
 sworn verb_participle adjective
 horn noun verb_transitive
 brook noun verb_transitive
@@ -1591,24 +1590,24 @@ sheer adjective adverb
 fare noun verb_intransitive
 packed adjective
 el noun
-grasped null
+grasped verb_participle
 tend verb_participle verb_intransitive
 carved verb_participle adjective
-bonds null
+bonds plural
 corpse noun
 realm noun
-debts null
-shops null
+debts plural
+shops plural
 coin noun verb_transitive
 clad verb_participle adjective
 lace noun verb_participle
-fred null
+fred noun
 trap noun verb_participle
-spots null
-proofs null
-wits null
+spots plural
+proofs plural
+wits plural
 cake noun verb_transitive
-lamps null
+lamps plural
 sir noun
 tongues noun
 praised verb_participle
@@ -1617,24 +1616,24 @@ wales noun
 knelt verb_participle
 stake noun verb_transitive
 tread verb_participle verb_intransitive
-mines null
+mines plural
 brick noun verb_transitive
 arch noun verb_transitive
 sprung verb_participle
 shy adjective verb_participle
 prime adjective noun
 fog noun verb_participle
-bits null
-moves null
+bits plural
+moves plural verb_intransitive
 warn verb_participle verb_transitive
 vile adjective
 doom noun verb_transitive
 scent noun verb_transitive
 bliss noun
 stove noun verb_transitive
-joys null
-flowed null
-brows null
+joys plural
+flowed verb_participle
+brows plural
 swell verb_participle verb_intransitive
 wreck verb_participle verb_transitive
 bowl noun verb_participle
@@ -1645,99 +1644,98 @@ pledge noun verb_participle
 earn verb_participle verb_transitive
 gang noun verb_participle
 boiled adjective
-shouts null
+shouts plural
 theme noun
 pool noun verb_transitive
-lads null
+lads plural
 didst verb_participle
-workmen null
-monks null
-sends null
+workmen plural
+monks plural
+sends verb_transitive
 preach verb_participle
 woke verb_participle
-weighed null
+weighed verb_participle
 wool noun
 orleans noun
-strikes null
-sticks null
+strikes verb_transitive
+sticks plural
 drag noun verb_participle
 crop noun verb_participle
 wolf noun verb_transitive
-sheets null
+sheets plural
 bond noun verb_participle
-horns null
-breaks null
+horns plural
+breaks plural verb_intransitive
 balls interjection
 rod noun
 blaze noun verb_intransitive
-mouths null
+mouths plural
 max noun
-juan null
+juan noun
 goal noun
 cash noun verb_transitive
 lawn noun
-texts null
-tastes null
+texts plural verb_intransitive
+tastes verb_transitive
 blush verb_intransitive noun
-ein null
 shew verb_participle
 globe noun verb_participle
 throng noun verb_participle
 cheese noun verb_participle
 bite verb_participle verb_transitive
 breach noun verb_transitive
-cars null
+cars plural
 dusk noun adjective
-truths null
+truths plural
 plague noun verb_participle
 boil verb_participle verb_intransitive
 shocked adjective
-hanged null
-hats null
+hanged verb_participle
+hats plural
 mirth noun
-bows null
+bows plural
 pierced adjective
-tricks null
+tricks plural
 rubbed verb_participle
 fright noun verb_participle
 rail noun verb_transitive
-crops null
-proves null
+crops plural
+proves verb_transitive
 ripe adjective
-reigned null
+reigned verb_participle
 sixth adjective noun
 mask noun verb_participle
 sire noun verb_transitive
-keys null
+keys plural
 damned adjective adverb
 vexed adjective
 bind verb_participle verb_transitive
-cliffs null
-tools null
+cliffs plural
+tools plural
 git noun
 bulk noun verb_participle
 bunch noun verb_participle
 cooked adjective
 hay noun verb_participle
 gale noun
-preached null
-hears null
+preached verb_participle
+hears verb_intransitive
 vow noun verb_transitive
 quaint adjective
 soup noun verb_participle
 beef noun verb_intransitive
-rests null
+rests plural verb_intransitive
 slay verb_participle
 sealed verb_participle adjective
-posts null
+posts plural verb_intransitive
 blade noun
 spy noun verb_participle
 shades noun
-robes null
+robes plural
 maine noun
 chanced noun verb_participle
-locks null
-votes null
+locks plural
+votes plural
 bred verb_participle
 league noun verb_participle
 limb noun verb_transitive
@@ -1746,14 +1744,14 @@ naught noun adverb
 slew verb_participle noun
 dug verb_participle noun
 hearth noun
-snatched null
+snatched verb_participle
 shaft noun verb_participle
 linked adjective
 jove noun
 stem noun verb_participle
 dec noun
 cows noun
-schemes null
+schemes plural
 urge verb_transitive noun
 shrill adjective verb_participle
 dean noun
@@ -1762,11 +1760,11 @@ code noun verb_transitive
 split verb_participle verb_transitive
 snake noun verb_intransitive
 ass noun
-draws null
+draws verb_transitive
 creed noun
 luke noun
 strove verb_participle
-cups null
+cups plural
 wax noun verb_transitive
 spoiled adjective
 earned adjective
@@ -1783,125 +1781,125 @@ strained adjective
 swim verb_participle verb_transitive
 strip verb_participle verb_intransitive
 team noun verb_participle
-tracks null
+tracks plural verb_transitive
 talks noun
 plane noun adjective
-sums null
+sums plural
 deaf adjective noun
 grip noun verb_participle
 juice noun
 blast noun interjection
 nile noun
 troop noun verb_intransitive
-crowds null
+crowds plural verb_transitive
 axe noun verb_transitive
 holmes noun
 tops noun adjective
 boards noun
-cells null
-reads null
+cells plural
+reads verb_transitive
 sway verb_participle verb_transitive
 screen noun verb_transitive
 dirt noun adjective
 breed verb_participle verb_transitive
-shapes null
+shapes plural verb_transitive
 shrewd adjective
 nov noun
 halt noun interjection
 stamp verb_participle verb_intransitive
-whites null
+whites plural
 drift verb_participle noun
-roared null
+roared verb_participle
 ray noun verb_participle
 ink noun verb_transitive
 oft adverb
 draught noun verb_participle
 kin noun adjective
-worlds null
+worlds plural
 frost noun verb_participle
 glare verb_intransitive verb_transitive
-termed null
+termed verb_participle
 yea adverb noun
 quest noun verb_participle
 crest noun verb_intransitive
-lakes null
+lakes plural
 swing verb_participle noun
 freed adjective
 lined verb_participle adjective
 shrugged verb_participle
-checks null
+checks plural verb_transitive
 pub noun verb_participle
 grove noun
 hire verb_transitive noun
 fox noun verb_transitive
 grieved verb_participle
 stamped adjective
-wiped null
+wiped verb_participle
 oars interjection
 scared verb_participle adjective
 lodged adjective verb_participle
 hedge noun verb_transitive
-storms null
+storms plural verb_intransitive
 beam noun verb_participle
 tour noun verb_participle
-wells null
+wells plural
 earl noun
 piled adjective verb_participle
-boughs null
-ports null
+boughs plural
+ports plural
 rhine noun
 bud noun verb_participle
 hail noun verb_intransitive
-beams null
+beams plural
 pig noun verb_participle
 shaped adjective verb_participle
 aug noun
 stripped verb_participle adjective
 plead verb_participle verb_transitive
 cord noun verb_transitive
-flows null
-wrongs null
-lungs null
-serves null
+flows verb_intransitive
+wrongs plural
+lungs plural
+serves verb_intransitive
 pint noun
 pipes noun
 pitched adjective
 tube noun verb_transitive
 smote verb_participle
 burke verb_transitive verb_participle
-nails null
-wears null
+nails plural
+wears verb_intransitive
 doomed noun
 bee noun
 mix verb_transitive noun
 sweat noun verb_participle
 tenth adjective noun
-folds null
-roofs null
+folds plural verb_intransitive
+roofs plural
 mute adjective noun
 cage noun verb_transitive
 esq noun
 cured verb_participle adjective
 jail noun verb_transitive
-crowns null
+crowns plural
 feb noun
 scream verb_participle verb_intransitive
-fits null
+fits verb_transitive
 cane noun verb_transitive
 fold verb_participle verb_transitive
-thieves null
+thieves plural
 tons noun
-dave null
-moore null
-meets null
+dave noun
+moore noun
+meets verb_transitive
 stress noun verb_transitive
 groan noun verb_participle
-suits null
-hosts null
+suits plural
+hosts plural
 crash verb_participle verb_intransitive
 quote verb_participle verb_transitive
 choked verb_participle adjective
-hurled null
+hurled verb_participle
 sack noun verb_transitive
 snapped verb_participle
 crush verb_participle verb_intransitive
@@ -1911,30 +1909,30 @@ greet verb_transitive verb_intransitive
 strive verb_participle verb_intransitive
 curve noun verb_participle
 flank noun verb_participle
-logs null
+logs plural
 lamb noun verb_intransitive
 reins noun
 trunks noun
 shrank verb_participle
 kent verb_participle noun
-maids null
-rates null
-bees null
+maids plural
+rates plural
+bees plural
 tramp verb_intransitive noun
 van noun
 nought noun
 yoke noun verb_transitive
-threats null
-lays null
-pays null
+threats plural
+lays verb_intransitive
+pays verb_intransitive
 nod verb_participle verb_transitive
 patch noun verb_transitive
 lance noun verb_transitive
 thumb noun verb_transitive
 wolves noun
 sales noun adjective
-trains null
-skirts null
+trains plural verb_intransitive
+skirts plural verb_intransitive
 tip verb_participle verb_transitive
 kick verb_transitive noun
 dig verb_participle verb_transitive
@@ -1942,12 +1940,12 @@ pet noun verb_participle
 skull noun
 ness noun
 threat noun verb_participle
-ghosts null
+ghosts plural
 asp noun
-blocks null
+blocks plural verb_intransitive
 shrine noun verb_participle
 heel noun verb_transitive
-throws null
+throws verb_intransitive
 frown verb_intransitive verb_transitive
 plunge verb_participle verb_intransitive
 moor noun verb_participle
@@ -1963,24 +1961,24 @@ hon noun
 pulse noun verb_intransitive
 flee verb_participle verb_intransitive
 clause noun
-growled null
+growled verb_participle
 charmed adjective
 knot noun verb_participle
-rags null
+rags plural
 mock verb_participle verb_transitive
-clare null
+clare noun
 skirt noun verb_transitive
 grin verb_participle verb_intransitive
 hoarse adjective
-mills null
+mills plural
 lain verb_participle
-aimed null
+aimed verb_participle
 scope noun
-blushed null
+blushed verb_participle
 crow noun verb_intransitive
 shawl noun
-sings null
-coats null
+sings verb_intransitive
+coats plural
 strode verb_participle
 hook noun verb_participle
 airs noun
@@ -1990,20 +1988,20 @@ tame adjective verb_transitive
 ditch noun verb_participle
 tract noun
 plus preposition adjective
-farms null
-ropes null
-hounds null
-rains null
+farms plural
+ropes plural verb_intransitive
+hounds plural
+rains plural verb_intransitive
 pond noun
 wrist noun
 li noun
 tries verb_participle
 bags interjection
-reared null
+reared verb_participle
 jaw noun verb_intransitive
 sect noun
 drum noun verb_participle
-poles null
+poles plural
 verge noun verb_intransitive
 bin noun verb_participle
 stained adjective
@@ -2023,36 +2021,35 @@ shrink verb_participle noun
 crude adjective noun
 eve noun
 frail adjective noun
-hans null
+hans noun
 mule noun
 bolt noun verb_transitive
 lame adjective verb_transitive
 vein noun verb_transitive
-lists null
+lists plural verb_intransitive
 shoe noun verb_participle
 thrice adverb
 foam noun verb_participle
-keith null
+keith noun
 fraud noun
-cats null
+cats plural
 blamed adjective adverb
 jar noun verb_participle
-clerks null
+clerks plural
 ark noun
 moist adjective
-wid null
 sauce noun verb_transitive
 writ noun verb_participle
 bruce noun
 deem verb_transitive verb_participle
-rolls null
+rolls plural verb_intransitive
 doe noun
 swiss noun
 loan noun verb_participle
 beads noun
 lust noun verb_intransitive
 ah interjection
-shares null
+shares verb_intransitive
 saul noun
 shelf noun
 fan noun verb_participle
@@ -2060,9 +2057,9 @@ kid noun verb_participle
 phase noun verb_transitive
 turf noun verb_transitive
 dame noun
-clubs null
+clubs plural
 creep verb_participle noun
-guides null
+guides plural verb_intransitive
 vii noun
 link noun verb_participle
 pluck verb_transitive noun
@@ -2073,36 +2070,36 @@ cum preposition
 med noun
 tough adjective noun
 plea noun
-lacked null
+lacked verb_participle
 mac noun
 fork noun verb_transitive
 stain verb_participle verb_intransitive
-hints null
-drinks null
-whipped null
+hints plural verb_intransitive
+drinks plural verb_intransitive
+whipped verb_participle
 matt adjective noun
 steed noun
 width noun
 rouse verb_participle verb_transitive
 vent noun verb_participle
-vines null
-flags null
+vines plural
+flags plural verb_intransitive
 ranch noun verb_intransitive
 odds noun
-aims null
+aims plural
 pie noun
-pigs null
+pigs plural
 choir noun verb_participle
 verb noun
 stead noun verb_transitive
 fling verb_participle noun
 dove noun verb_participle
 cracked adjective
-sexes null
+sexes plural
 pledged verb_participle adjective
 brushed adjective
 grieve verb_participle verb_transitive
-tim null
+tim noun
 flint noun verb_transitive
 vault noun verb_transitive
 worm noun verb_participle
@@ -2112,24 +2109,23 @@ knives noun
 te noun
 yacht noun verb_intransitive
 stray verb_intransitive noun
-tends null
+tends plural verb_transitive
 wan adjective noun
 welsh verb_intransitive noun
 swam verb_participle
 slid verb_participle
-cock noun verb_transitive
 lump noun verb_transitive
 wee adjective noun
 dome noun verb_transitive
-cheered null
+cheered verb_participle
 curved noun verb_participle
-drives null
+drives verb_intransitive
 alps noun
 harp noun verb_intransitive
-peaks null
+peaks plural verb_intransitive
 rub verb_participle verb_transitive
 grapes noun
-beans null
+beans plural
 nail noun verb_transitive
 tact noun
 toast noun verb_transitive
@@ -2141,30 +2137,30 @@ lime noun verb_transitive
 spur noun verb_participle
 sown verb_participle adjective
 hush verb_participle noun
-breasts null
+breasts plural
 pat verb_participle verb_transitive
-strokes null
+strokes plural verb_intransitive
 sob verb_participle verb_transitive
 vine noun
-pots null
+pots plural
 crust noun verb_participle
 sting verb_participle verb_transitive
 ho interjection noun
 ta interjection noun
-coasts null
+coasts plural verb_intransitive
 starve verb_participle verb_intransitive
 scots noun
 goat noun
 sour adjective noun
-spoils null
+spoils verb_intransitive plural
 pa noun
 ox noun
 carl noun
-blanche null
+blanche noun
 spray noun verb_participle
 sports noun
 ab noun
-scales null
+scales plural
 calf noun
 melt verb_participle noun
 grade noun verb_transitive
@@ -2172,46 +2168,45 @@ pang noun
 brisk adjective verb_participle
 stool noun verb_intransitive
 al noun
-spies null
+spies plural
 yell verb_participle noun
 boot noun verb_transitive
 ale noun
 goose noun verb_transitive
 truce noun
-groves null
+groves plural
 cling verb_participle noun
 duck noun verb_participle
 weird adjective noun
-males null
-pairs null
+males plural
+pairs plural
 con noun verb_participle
 lapse noun verb_intransitive
 soap noun verb_transitive
 eyed adjective
 doll noun
-sez null
 nuts adjective interjection
 wright noun
-hides null
+hides plural verb_intransitive
 co noun
-walt null
+walt noun
 pearl noun adjective
 thrilled adjective
-gains null
-jokes null
+gains plural verb_intransitive
+jokes plural verb_intransitive
 quod noun
 clue noun verb_participle
 tooth noun verb_participle
 clasp noun verb_transitive
-lets null
-wires null
+lets verb_intransitive
+wires plural
 wheeled adjective
 aye noun
 shriek noun verb_participle
 gap noun verb_participle
 rhyme noun verb_participle
-launched null
-vowed null
+launched verb_participle
+vowed verb_participle
 caps noun
 owl noun
 suite noun
@@ -2219,11 +2214,11 @@ heaped adjective
 babe noun
 rogue noun verb_transitive
 hull noun verb_participle
-jeff null
+jeff noun
 peak noun verb_transitive
 khan noun
 plucked adjective
-bids null
+bids verb_intransitive
 clapped verb_participle
 zeus noun
 mike noun verb_intransitive
@@ -2260,10 +2255,9 @@ brand noun verb_transitive
 dipped verb_participle adjective
 tool noun verb_participle
 dwarf noun verb_participle
-ak null
 paced adjective verb_participle
 tense adjective verb_participle
-drums null
+drums plural verb_intransitive
 hen noun
 baked verb_participle adjective
 winged adjective
@@ -2276,10 +2270,10 @@ mourn verb_participle verb_intransitive
 freight noun verb_transitive
 wipe verb_transitive noun
 shelves noun
-traits null
+traits plural
 dire adjective
 gait noun verb_transitive
-clutched null
+clutched verb_participle
 sneer noun verb_intransitive
 plump adjective verb_participle
 cheat verb_participle verb_intransitive
@@ -2289,7 +2283,7 @@ frock noun verb_transitive
 gal noun
 wed verb_transitive verb_intransitive
 plough noun verb_participle
-snakes null
+snakes plural
 reef noun verb_participle
 draft noun verb_transitive
 hound noun verb_transitive
@@ -2297,14 +2291,14 @@ toy noun verb_intransitive
 stair noun
 cough verb_intransitive verb_transitive
 blazed verb_participle verb_transitive
-claude null
-burns null
+claude noun
+burns plural verb_intransitive
 din noun verb_participle
 zone noun verb_transitive
 ac noun
 ninth adjective noun
 heal verb_participle verb_intransitive
-karl null
+karl noun
 staid adjective
 stuffed adjective
 steer verb_participle verb_transitive
@@ -2312,14 +2306,14 @@ ounce noun
 drown verb_participle verb_transitive
 slide verb_participle verb_intransitive
 sow verb_participle verb_transitive
-rides null
+rides plural verb_intransitive
 spoon noun verb_transitive
 pinch verb_participle verb_transitive
-ducks null
+ducks plural
 rum noun adjective
 ni noun
 bluff verb_participle noun
-dawned null
+dawned verb_participle
 chalk noun verb_participle
 fuss noun verb_intransitive
 dazed verb_participle adjective
@@ -2329,11 +2323,11 @@ damn interjection adjective
 theft noun
 rats interjection
 ash noun verb_participle
-floods null
+floods plural verb_intransitive
 ti noun
 twelfth adjective noun
 prone adjective
-twins null
+twins plural verb_transitive
 stoop verb_participle noun
 raft noun verb_participle
 fade verb_participle verb_intransitive
@@ -2346,11 +2340,11 @@ dip verb_participle verb_transitive
 unit noun
 brig noun
 chat noun verb_participle
-maps null
+maps plural verb_intransitive
 trot verb_participle noun
 howl noun verb_participle
 ton noun adverb
-bricks null
+bricks plural
 sane adjective
 wreath noun verb_participle
 cork noun verb_transitive
@@ -2361,7 +2355,7 @@ ted verb_participle noun
 caste noun
 leapt verb_participle
 grudge noun verb_transitive
-tips null
+tips plural
 turk noun
 rhythm noun
 rat noun verb_participle
@@ -2384,9 +2378,9 @@ alms noun
 wink verb_intransitive verb_transitive
 nous noun
 rack noun verb_transitive
-carts null
+carts plural
 lone adjective
-counts null
+counts plural
 scratch verb_participle verb_transitive
 screw noun verb_transitive
 hood noun verb_transitive
@@ -2396,16 +2390,16 @@ whirl verb_participle verb_intransitive
 plank noun verb_transitive
 mi noun
 seals verb_participle
-knots null
+knots plural
 wail verb_intransitive verb_transitive
 kneel verb_participle noun
 peep verb_intransitive noun
 swarm noun verb_intransitive
 bust noun verb_participle
 arched adjective
-furs null
+furs plural
 dock noun verb_participle
-psalms null
+psalms plural
 hawk noun verb_intransitive
 rein noun verb_transitive
 bake verb_transitive verb_intransitive
@@ -2425,8 +2419,8 @@ paste noun verb_transitive
 scrap noun verb_participle
 fiend noun
 moan noun verb_participle
-trades null
-rounds null
+trades plural verb_transitive
+rounds plural
 crawl verb_intransitive noun
 aft adverb adjective
 role noun
@@ -2435,14 +2429,14 @@ snap verb_participle verb_intransitive
 tire verb_transitive verb_intransitive
 geese noun
 locke noun
-deals null
+deals plural
 core noun verb_transitive
 durst verb_participle
 scratched adjective
 wert verb_participle
 wig noun verb_transitive
 pump noun verb_participle
-reigns null
+reigns plural verb_intransitive
 reap verb_participle verb_transitive
 dam noun verb_participle
 fringe noun verb_transitive
@@ -2451,7 +2445,7 @@ rue verb_participle noun
 toss verb_transitive verb_intransitive
 rung noun verb_participle
 scrape verb_participle verb_transitive
-pools null
+pools plural verb_intransitive
 oar noun verb_participle
 bait noun verb_transitive
 login verb_participle
@@ -2467,15 +2461,14 @@ gasp verb_intransitive verb_transitive
 glee noun
 lied noun
 pro adverb preposition
-val null
 eats noun
 snare noun verb_transitive
-wines null
+wines plural
 flown verb_participle adjective
 thorn noun
 re noun preposition
 holt noun
-peas null
+peas plural
 clan noun
 dart noun verb_participle
 berth noun verb_transitive
@@ -2487,8 +2480,8 @@ spun verb_participle adjective
 gear noun verb_transitive
 wares noun
 snug adjective noun
-chaps null
-prints null
+chaps plural
+prints plural verb_intransitive
 rug noun
 ham noun verb_participle
 mice noun
@@ -2499,17 +2492,17 @@ scout noun verb_participle
 spit verb_participle verb_intransitive
 nun noun
 wad noun verb_participle
-curves null
+curves plural
 sledge noun verb_participle
 butt noun verb_participle
 tank noun verb_transitive
-pins null
+pins plural verb_intransitive
 chart noun verb_transitive
 twin adjective noun
 blunt adjective verb_transitive
 bleak adjective noun
 sub noun verb_participle
-drugs null
+drugs plural verb_intransitive
 ache verb_intransitive noun
 limp verb_intransitive noun
 deuce noun interjection
@@ -2517,43 +2510,41 @@ thigh noun
 scant adjective verb_transitive
 mien noun
 cor interjection noun
-peers null
+peers plural
 chant noun verb_participle
 marsh noun
 vase noun
-ty null
-baths null
+baths plural
 coil verb_participle verb_intransitive
 crisp adjective verb_participle
 jerk verb_participle verb_transitive
 tout adverb verb_participle
 stroll verb_participle verb_intransitive
 jam verb_participle verb_transitive
-shoots null
-nets null
+shoots plural verb_intransitive
+nets plural verb_intransitive
 dice verb_participle
 shrunk verb_participle adjective
 swine noun
-tints null
+tints plural verb_intransitive
 rout noun verb_transitive
-steve null
+steve noun
 rag noun verb_participle
 punch verb_participle verb_transitive
-craig null
+craig noun
 drained adjective
 stride noun verb_participle
 gum noun verb_participle
-las null
 lash noun verb_transitive
 lore noun
 scot noun
 scrub verb_participle verb_intransitive
 myth noun
-flights null
-oats null
+flights plural
+oats plural
 cape noun
 scare verb_participle verb_transitive
-waked null
+waked verb_participle
 brake noun verb_participle
 kirk noun
 bough noun
@@ -2584,17 +2575,17 @@ slate noun verb_transitive
 gin noun verb_participle
 cleft verb_participle noun
 bart noun
-lambs null
+lambs plural
 tub noun verb_transitive
 greed noun
 herb noun
-ole null
+ole adjective
 forged verb_participle verb_intransitive
 scourge noun verb_transitive
-vera null
+vera noun
 spin verb_participle verb_transitive
 puffed adjective
-lids null
+lids plural
 muse verb_participle verb_intransitive
 clump noun verb_intransitive
 flute noun verb_participle
@@ -2606,12 +2597,12 @@ beth noun
 ape noun verb_transitive
 span noun verb_participle
 snuff verb_transitive noun
-drooped null
-ills null
+drooped verb_participle
+ills plural
 dye noun verb_participle
-bolts null
+bolts plural verb_intransitive
 lark noun adverb
-slips null
+slips plural verb_intransitive
 seine noun verb_participle
 glide verb_participle verb_intransitive
 sol noun
@@ -2645,14 +2636,13 @@ mates noun
 stalk noun verb_participle
 fret verb_participle verb_intransitive
 buck noun verb_intransitive
-cocked null
 dad noun
 chasm noun
 blot noun verb_participle
 nook noun
 jake adjective noun
 haul verb_participle verb_transitive
-hurts null
+hurts plural verb_intransitive
 splash verb_participle verb_transitive
 curl verb_intransitive verb_transitive
 brace noun verb_participle
@@ -2660,13 +2650,13 @@ clothe verb_participle
 gem noun verb_participle
 wrap verb_participle verb_intransitive
 ram noun verb_participle
-wins null
+wins plural
 awed adjective verb_participle
 whit noun
 stall noun verb_participle
 sham noun adjective
 gout noun
-jobs null
+jobs plural
 sate verb_transitive verb_participle
 ebb verb_intransitive noun
 cruise verb_intransitive noun
@@ -2679,7 +2669,7 @@ wast verb_participle
 frog noun verb_participle
 yarn noun verb_intransitive
 smelt verb_transitive noun
-leaps null
+leaps verb_intransitive
 smite verb_participle verb_intransitive
 os noun
 barge noun verb_intransitive
@@ -2695,8 +2685,6 @@ yale noun
 scarf noun verb_transitive
 aux noun
 scar noun verb_participle
-sous null
-ca noun
 clash verb_participle verb_intransitive
 speck noun verb_transitive
 birch noun adjective
@@ -2704,7 +2692,7 @@ dough noun
 clutch verb_transitive verb_intransitive
 trance noun verb_transitive
 mon noun
-meats null
+meats plural
 filth noun
 ware noun verb_participle
 glen noun

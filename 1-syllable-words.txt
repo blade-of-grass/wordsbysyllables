@@ -2040,7 +2040,6 @@ jar
 clerks
 ark
 moist
-wid
 sauce
 writ
 bruce
@@ -2117,7 +2116,6 @@ wan
 welsh
 swam
 slid
-cock
 lump
 wee
 dome
@@ -2189,7 +2187,6 @@ lapse
 soap
 eyed
 doll
-sez
 nuts
 wright
 hides
@@ -2260,7 +2257,6 @@ brand
 dipped
 tool
 dwarf
-ak
 paced
 tense
 drums
@@ -2467,7 +2463,6 @@ gasp
 glee
 lied
 pro
-val
 eats
 snare
 wines
@@ -2521,7 +2516,6 @@ peers
 chant
 marsh
 vase
-ty
 baths
 coil
 crisp
@@ -2645,7 +2639,6 @@ mates
 stalk
 fret
 buck
-cocked
 dad
 chasm
 blot
@@ -2695,8 +2688,6 @@ yale
 scarf
 aux
 scar
-sous
-ca
 clash
 speck
 birch
